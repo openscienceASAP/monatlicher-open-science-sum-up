@@ -1,0 +1,53 @@
+Title: Open Science Sum-Up Januar
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/02/Open_access_wordle.jpg -->
+
+Der <a title="Monthly Open Science Sum-Up" href="http://openscienceasap.org/social/monthly-sum-up/">Monthly Open Science Sum-Up</a> ist eine Zusammenfassung was sich letztes Monat zu Open Science getan hat und bietet eine kleine Aussicht ins nächste Monat hinein: Weltweit, in Österreich, in Deutschland und auf openscienceASAP.org.
+
+Dieser Artikel wurde ursprünglich auf <a href="" title="Open Science Sum-Up Januar 2014">openscienceASAP.org</a> veröffentlicht.
+
+[caption id="attachment_2350" align="alignnone" width="580"]<a href="http://openscienceasap.org/wp-content/uploads/2014/02/Open_access_wordle.jpg"><img class="size-medium wp-image-2350" alt="Open Access Wordle, Public Domain" src="http://openscienceasap.org/wp-content/uploads/2014/02/Open_access_wordle-580x371.jpg" width="580" height="371" /></a> <a title="Open Access Wordle" href="http://commons.wikimedia.org/wiki/File:Open_access_wordle.JPG">Open Access Wordle</a>, Public Domain[/caption]
+
+<h1>Das letzte Monat im Rückblick</h1>
+<strong>Sarah Callaghan legt Argumente auf den Tisch, <a title="Data Citation" href="http://blogs.lse.ac.uk/impactofsocialsciences/2014/01/07/data-citation-and-sharing-whats-in-it-for-me/" target="_blank">warum Data Citation sinnvoll</a> ist.</strong> Dazu gehören Reproduzierbarkeit, Verringerung von Betrug und Fehlern, Zeit- und Kosteneffizienz und Transparenz.
+
+<strong>Neelie Kroes positioniert sich im Openness-Diskurs.</strong> In diesem <a title="Neelie Kroes Openness" href="http://opensource.com/government/13/11/interview-europe-neelie-kroes#.UuwBHVufq_s.twitter" target="_blank">Interview</a> geht es um Open Data, Open Education und Openness aus Sicht der EU-Kommissarin.
+
+<strong>Was auf die Ohren aus dem Podcast-Universum:</strong> In der <a title="OK Cast" href="http://okcast.org/2014/01/episode-1-5-annemarie-naylor-on-common-futures-data-coops-community-asset-ownership/" target="_blank">ersten OKCast</a> Folge geht es um Common Futures, Data Coops und Community Asset Ownership. Im <a title="QGIS Podcast" href="http://qgispodcast.libsyn.com/" target="_blank">Quantum GIS Podcast</a>  ist das Hauptthema der Print Composer der freien Geoinformatik Software. Und das OpenScience Radio hat eine <a title="Open Science Radio Neue Folge" href="http://www.openscienceradio.de/2014/01/osr013-zurueck-mit-verstaerkung-oa-sting-takedowns-und-viel-peer-review/" target="_blank">neue Folge über Open Access Stings und Peer Review</a>, ab sofort mit Verstärkung durch Konrad Förstner.
+
+<strong>CREATe hat den Stand von Open Access Publishing beleuchtet.</strong> Die Literaturstudie des RCUK Centre for Copyright and New Business Models in the Creative Economy zeigt aktuelle Trends, Vorteile, Nachteile, Probleme und Lösungsansätze, Möglichkeiten und Barrieren auf, und ist als <a title="Create Open Access Literaturstudie" href="http://www.create.ac.uk/publications/open-access-publishing-a-literature-review/" target="_blank">Working Paper natürlich unter OA veröffentlicht</a>.
+
+<strong>Wer Open Science erklären will und leider nur Zeit hat um einen Link zu verschicken,</strong> könnte ja den <a title="Guide to Open Science" href="http://digitheadslabnotebook.blogspot.co.at/2014/01/guide-to-open-science.html" target="_blank">Guide to Open Science</a> nehmen. Tools, Organisationen und die großen Diskussionslinien werden kürzestmöglich aufgelistet.
+
+<strong>Die europäische Kommission hat Guidelines für <a title="Open Access Guidelines" href="http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-pilot-guide_en.pdf" target="_blank">Open Access</a> und <a title="Open Data Guidelines" href="http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf" target="_blank">Open Data</a> für das nächste Forschungsrahmenprogramm Horizon 2020 ausgegeben.</strong> Die Kommission ermutigt Autoren zur Nutzung von CC-BY (Namensnennung) oder CC0 (Public Domain) Lizenzen. Im Rahmen einer Fördervereinbarung werden jedoch nur sehr niedrige Mindeststandards für Open Access gesetzt. Als komplette Neuerung wird es Open Data Pilotprojekte geben, welche einen Datenmanagementplan erstellen und ihre Daten frei zur Verfügung stellen müssen.
+
+<strong>Wikipedia strebt nach mehr Open Access.</strong> Es wird diskutiert, ob <a title="Wikipedia strebt nach Open Access" href="https://blog.wikimedia.org/2014/01/15/the-wikipedia-library-strives-for-open-access/" target="_blank">Open Access unterstützt</a> werden soll. Dafür sprechen die einfachere Verifizierbarkeit von Content auf Wikipedia, sowie der Nutzen für Freies Wissen an sich.
+
+<strong>Einen wirklich sehr guten und umfangreichen Vergleich von Reference-Managern gibt es hier:</strong> <a title="Zitationsmanager Mendeley Zotero Docear" href="http://www.docear.org/2014/01/15/comprehensive-comparison-of-reference-managers-mendeley-vs-zotero-vs-docear/" target="_blank">Mendeley vs. Zotero vs. Docear</a>. Besonderes Augenmerk liegt auf Interoperabilität, Wissensmanagement und kollaborativem Arbeiten.
+
+<strong>Die Zeit hat gleich mehrere Artikel veröffentlicht,</strong> die in ihrem "<a title="Zeit Rettet die Wissenschaft" href="http://wisspub.net/2014/01/02/die-zeit-uber-wissenschaft-transparenz-und-open-science/" target="_blank">Rettet die Wissenschaft</a>" Schwerpunkt sich mitunter mit offener Wissenschaft beschäftigen. Aufgegriffen werden Betrug, Datenverlust wie auch statistische Fehler.
+
+<strong>Das Interesse von Verlagen an Webdiensten und -plattformen ist ungebrochen.</strong> EBSCO erwirbt den <a title="EBSCO erwirbt Plum Analytics" href="http://www.thedigitalshift.com/2014/01/publishing/ebsco-acquires-altmetrics-provider-plum-analytics/" target="_blank">Altmetrics-Provider Plum Analytics</a>. Ein Ziel sei unter anderem die Untersuchung, ob es Indikatoren gibt die zukünftige Zitationen voraussagen können.
+
+<strong>Die Panton Fellows</strong> 2013/2014 <a title="Panton Fellow Rosie Graves" href=" http://science.okfn.org/2014/01/08/an-update-on-my-panton-fellowship/" target="_blank">Rosie Graves</a>, <a title="Panton Fellow Samuel Moore" href=" http://science.okfn.org/2014/01/08/panton-fellow-update-samuel-moore/" target="_blank">Sam Moore</a> und <a title="Panton Fellow Peter Kraker" href=" http://science.okfn.org/2014/01/15/quarterly-report/" target="_blank">Peter Kraker</a> lassen das erste Quartal ihrer Fellowships Revue passieren.
+
+<strong>Die Open Knowledge Foundation Österreich</strong> ist mit Jahresbeginn Mitglied beim <a title="Open Access Network Austria" href="http://okfn.at/2014/01/27/mitglied-open-access-netzerk-austria/" target="_blank">Open Access Network Austria</a> und arbeitet auch gleich bei mehreren Open Access Arbeitsgruppen mit.
+<h1>Ein Blick nach Vorne</h1>
+<strong>Wer gerne Flugmeilen sammelt:</strong> Die <a title="International Conference on Science 2.0" href="http://www.science20-conference.de/" target="_blank">International Conference on Science 2.0</a> des gleichnamigen Leibniz Forschungsverbundes findet am 26. und 27.3. in Hamburg statt. Kurz darauf steht die <a title="Science Online 2014" href="http://scienceonline.com/scienceonline-together-2014" target="_blank">Science Online 2014 in Raleigh</a> (US) vor der Tür (27.2.-1.3.). Es handelt sich dabei um eine "kuratierte Unkonferenz", die sich mit Veränderungen in der Wissenschaft durch das World Wide Web auseinander setzt.
+
+<strong>Die Registrierung für die </strong> <a title="Registration Opening Science" href="http://conference2014.ceon.pl/conference/registration/" target="_blank">Opening Science to Meet Future Challenges</a> Konferenz am 11. März in Warschau ist noch bis 15.02. möglich.
+
+<strong>Du willst Menschen Open Science, das Öffnen von Forschungsdaten sowie Open Access näher bringen?</strong> <a title="Foster Open Science" href="http://www.fosteropenscience.eu/training-call-2014/" target="_blank">FOSTER Open Science Training Co-Funding</a> für Forschungs-Institute aus Europa greift finanziell unter die Arme, egal ob 2-stündiger Workshop oder eine ganze Summer-School.
+
+<strong>Die <a title="FOSSGIS 2014" href="http://www.fossgis.de/konferenz/2014/programm/track/Workshops%20%28bezahlt%29/index.de.html" target="_blank">FOSSGIS 2014</a> - die führende Konferenz zu freier und offener Software in der Geoinformatik - findet vom 19. - 21. März in Berlin statt.</strong> Bei zahlreichen Vorträgen und Workshops trifft sich die Geodaten und -software Community um sich auszutauschen. Natürlich mit dabei: die OpenStreetMap Community.
+<h1>Unsere Projekte</h1>
+Am 26. Februar gibt es in Graz einen <a title="OER-Workshop" href="http://openscienceasap.org/projects-resources/open-science-at-uni-graz/workshop-open-educational-resources/" target="_blank">Workshop zum Thema Open Educational Resources</a>.
+
+<strong>Der Open Science in Aktion-Podcast hat gestartet.</strong> In diesem Interview-Podcast besucht Stefan Kasberger Menschen und Institutionen, die sich mit Open Science beschäftigen oder offene Wissenschaft betreiben. Alle Folgen und mehr Informationen gibt es <a title="OS in Aktion" href="http://openscienceasap.org/social/podcast-open-science-in-aktion/" target="_blank">hier</a>. In der aktuellen Folge gibt es ein Interview mit Dirk Helbing über das FuturICT-Projekt.
+
+<strong>Die Grazer Open Science-Community hat die Johannes-Kepler-Sternwarte besucht.</strong> Thema war auch <a title="Sternwartenbesuch" href="http://openscienceasap.org/stream/2014/01/20/fotos-und-links-zum-sternwartenbesuch/" target="_blank">Open Science und Citizen Science in der Astronomie</a>. Dank klarem Himmel konnte ein Blick auf den Jupiter und seine Monde geworfen werden.
+
+<h1>openscienceASAP Newsletter abonnieren</h1>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
