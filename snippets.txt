@@ -1,0 +1,8 @@
+<-- Beschreibung !-->
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/"  title="Monatliche Open Science Sum-Up">monatliche Open Science  Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie openscienceASAP.
+
+<-- Quelle !-->
+
+Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2013/11/06/sum-up-oktober-2013/" title="Open Science Sum-Up Oktober">openscienceASAP.org</a> veröffentlicht.
+
