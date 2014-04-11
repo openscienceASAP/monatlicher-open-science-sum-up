@@ -6,3 +6,9 @@ Der <a href="http://openscienceasap.org/social/monthly-sum-up/"  title="Monatlic
 
 Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2013/11/06/sum-up-oktober-2013/" title="Open Science Sum-Up Oktober">openscienceASAP.org</a> veröffentlicht.
 
+<-- Newsletter Formular !-->
+
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+
