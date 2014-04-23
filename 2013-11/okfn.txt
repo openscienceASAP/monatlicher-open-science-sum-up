@@ -1,0 +1,42 @@
+Title: Open Science Sum-Up November
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2013/11/Digitage-Web-2.0-298x240.png -->
+
+[caption id="attachment_1662" align="alignnone" width="600"]<a title="Digitage Web 2.0" href="http://openscienceasap.org/wp-content/uploads/2013/11/Digitage-Web-2.0.png"><img class="size-medium wp-image-1662" alt="Digitage Web 2.0, cc by-nc-sa 2.0 Maureen Flynn-Burhoe" src="http://openscienceasap.org/wp-content/uploads/2013/11/Digitage-Web-2.0-600x403.png" width="600" height="403" /></a> <a title="Digitage Web 2.0" href="https://secure.flickr.com/photos/oceanflynn/6638184545/">Digitage Web 2.0</a>, <a title="cc by-sa-nc 2.0" href="http://creativecommons.org/licenses/by-nc-sa/2.0/">cc by-sa-nc 2.0</a> <a title="Maureen Flynn Burhoe" href="http://www.flickr.com/photos/oceanflynn/">Maureen Flynn-Burhoe</a>[/caption]
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monthly Open Science Sum-Up">Monthly Open Science Sum-Up</a> ist eine monatliche Zusammenfassung was sich letztes Monat zu Open Science getan hat und bietet eine kleine Aussicht ins nächste Monat: Weltweit, in Österreich, in Deutschland und auf openscienceASAP.org.
+
+Dieser Artikel wurde ursprünglich auf der Open Science Plattform <a href="http://openscienceasap.org/stream/2013/12/09/sum-up-november/" title="Open Science Sum-Up November">openscienceASAP.org</a> veröffentlicht.
+
+<h2>Was im November geschah</h2>
+<strong>Creative Commons haben nach langer und öffentlicher Diskussion die <a title="Neue Creative Commons-Lizenzen" href="https://creativecommons.org/weblog/entry/40768" target="_blank">neue Generation der CC-Lizenzen</a> (Version 4.0) veröffentlicht.</strong> Bei iRights.info hat sich <a title="Creative Commons 4.0 was ändert sich" href="http://irights.info/creative-commons-in-version-4-0-verfugbar-was-sich-andert-und-was-nicht" target="_blank">John Weitzmann eingehender</a> damit befasst und stellt die teils bemerkenswerten Neuerungen vor.
+
+<strong>Gibt es eigentlich ein Geräusch, wenn man gegen eine Bezahlschranke läuft?</strong> Ab sofort gibt es zumindest einen Vermerk auf der Karte, denn der <a title="Open Access Button" href="https://www.openaccessbutton.org/" target="_blank">Open Access Button</a> ist im Rahmen der Berlin 11 Student and Early Stage Researcher Satellite Conference offiziell an den Start gegangen.
+
+<strong>Bei Henning Krause, Social Media Manager der Helmholtz-Gemeinschaft deutscher Forschungszentren,</strong> gibt es eine ausführliche <a title="Linkliste Forschungsdaten" href="http://divergent.de/2013/11/23/linkliste-forschungsdaten-portale/" target="_blank">Linkliste zu Forschungsdaten-Portalen</a> in der Helmholtz-Gemeinschaft die für den einen oder anderen durchaus interessant sein könnten. Da geht hoffentlich noch mehr!
+
+<strong>Eine Sammlung von Blogposts zur zurückliegenden Open Access Week 2013</strong> findet sich auf der <a title="Blogs zur Open Access Week" href="http://www.openaccessweek.org/profiles/blog/list" target="_blank">Website für die globale Veranstaltung</a>.
+
+<strong>Bei der SpotOn Konferenz in London (früher: ScienceOnline) wurden viele aktuelle Themen aus der Wissenschaftskommunikation teils sehr kontrovers diskutiert:</strong> Altmetrics, Open Peer Review, Reproduzierbarkeit und das Teilen von Daten. Eine Übersicht über Write-Ups und Analysen ist <a title="Nature SpotOn 2013" href="http://www.nature.com/spoton/2013/11/spoton-london-2013-online-coverage/" target="_blank">hier</a> zu finden, Videos der einzelnen Sessions sind auf <a title="Nature SpotOn 2013 Media" href="http://www.nature.com/spoton/spoton-media/" target="_blank">dieser Seite</a> versammelt.
+
+<strong>Im Rahmen der Leibniz-Jahrestagung in Berlin fand ein Treffen des Forschungsverbundes "<a title="Forschungsverbund Science 2.0" href="http://www.leibniz-science20.de/" target="_blank">Science 2.0</a>" statt.</strong>  Der Zusammenschluss von über 40 Forschungseinrichtungen beschäftigte sich dabei mit dem Einfluss des Webs auf die Wissenschaft.
+
+<strong>Handlungsempfehlungen zu Content Mining</strong> hat die Helmholtz Gesellschaft nieder geschrieben und teilt diese nun in einem <a title="Content Mining" href="http://oa.helmholtz.de/fileadmin/user_upload/helmholtz_osb_tdm.pdf">Dokument</a>.
+
+<strong>Die Berlin11 hat das zehn-jährige Bestehen der Berlin Declaration of Open Access</strong> gefeiert. Am Tag davor hat Right2Research JungwissenschaftlerInnen und StudentInnen aus der ganzen Welt zu einer <a title="Berlin 11 Satellite Conference" href="http://www.righttoresearch.org/act/berlin11/">Satelliten Konferenz</a> eingeladen, bei der Jack Andraka mit seiner Keynote die Menge verzauberte. Open Access hat gewonnen, so das Echo, zu tun gibt's aber noch Einiges.
+
+<strong>Ein Jahr ist es her, als der Finch Report Empfehlungen für Open Access in Großbritannien</strong> verfasst hat. Ein guter Grund um sich im Detail anzusehen, wie es mit der <a title="Finch Report" href="http://www.researchinfonet.org/finch/">Umsetzung aussieht</a>.
+
+<strong>Google Scholar macht in letzter Zeit häufiger auf sich aufmerksam.</strong> So kooperiert man nunmehr mit Thomson Scientific's Web of Science um wechselseitig die <a title="Google Scholar und Thomson Scientific" href="http://www.against-the-grain.com/2013/11/newsflash-thomson-reuters-google-scholar-linkage-offers-big-win-for-stm-users-and-publishers/" target="_blank">Ergebnisse der Zitationszählungen</a> anzuzeigen. Erweitert wird das Portfolio auch um die Library, in der man Ergebnisse der Scholar-Suche sammeln und verwalten kann.
+
+<strong>Auf der anderen Seite hat Elsevier die <a title="Scirus says goodbye" href="http://www.univie.ac.at/voeb/blog/?p=29161, http://newsbreaks.infotoday.com/Digest/Scirus-Says-Goodbye-92580.asp" target="_blank">Wissenschaftssuchmaschine scirus geschlossen</a>.</strong> Begründet wird dies mit einem Verlust an Wettbewerbsfähigkeit.
+<h2>Wie geht es weiter?</h2>
+<strong>Der <a title="30C3" href="https://events.ccc.de/2013/07/18/30c3-call-for-participation-de/" target="_blank">Chaos Communication Congress 30C3</a> vom 27.12. bis 30.12. in Hamburg hat dieses Jahr auch einen Science &amp; Engineering Track. </strong>Im zugehörigen Blog wird u.a. auch beschrieben, wie die einzelnen Vorträge, z.b. in <a title="Society Politics Ethics" href="https://events.ccc.de/2013/11/15/on-the-acceptance-and-rejections-in-the-30c3-society-politics-ethics-track/" target="_blank">Society, Politics &amp; Ethics</a> oder im <a title="Security" href="https://events.ccc.de/2013/11/16/the-30c3-security-track/" target="_blank">Security-Track ausgewählt</a> wurden. Welche spannenden Inhalte hinsichtlich Open Science diskutiert wurden, wird im nächsten Sum-Up zu lesen sein.
+
+<strong>Welche Möglichkeiten gibt es, wissenschaftliche Arbeiten zu sortieren, jenseits vom Impactfactor eines Journals?</strong> Ein <a title="OKFN MeetUp Altmetrics" href="http://okfn.at/2013/11/28/open-science-meetup-zu-altmetrics/" target="_blank">Meetup der OKFN</a> speziell zum Thema alternative quantitative Maßzahlen (auch mit altmetrics abgekürzt) findet am 10.12. in Wien statt.
+<h2>openscienceASAP</h2>
+<strong>Die <a title="ÖH" href="http://www.oeh.ac.at/">Österreichische HöchschülerInnenschaft</a> hat bei der Vertretungs-Werkstatt 2013 in Fürstenfeld zu einem Open Science Workshop eingeladen.</strong> An den drei Tagen haben Stefan Kasberger (Open Knowledge Foundation, openscienceASAP), Michela Vignoli (AIT) und Joachim Losehand (Creative Commons Österreich) eine Einführung zu Open Science und dazugehörend dem Urheberrecht mit 15 StudentInnen abgehalten. Weitere gemeinsame Aktionen sollen noch folgen.
+<h2>openscienceASAP Newsletter abonnieren</h2>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>

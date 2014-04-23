@@ -1,0 +1,98 @@
+Titel: Open Science Sum-Up Oktober
+
+<!-- magazine.image = http://okfn.at/files/2013/03/opensciencemeetup.jpg -->
+[caption id="attachment_873" align="alignnone" width="600"]<a href="http://openscienceasap.org/wp-content/uploads/2013/11/Open-Access-Cake.jpg"><img class="size-medium wp-image-873" alt=" Open Access Week ,  cc by 2.0   SLUB Dresden " src="http://openscienceasap.org/wp-content/uploads/2013/11/Open-Access-Cake-600x450.jpg" width="600" height="450" /></a> <a title="Open Access Week 2013" href="http://www.flickr.com/photos/slubdresden/10404994606/"> Open Access Week , </a><a title="cc by 2.0" href="http://creativecommons.org/licenses/by/2.0/"> cc by 2.0 </a><a title="SLUB Dresden" href="http://www.flickr.com/photos/slubdresden/"> SLUB Dresden </a>[/caption]
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monthly Open Science Sum-Up">Monthly Open Science Sum-Up</a> ist eine monatliche Zusammenfassung was sich letztes Monat zu Open Science getan hat und bietet auch eine kleine Aussicht ins nächste Monat: Weltweit, in Österreich, in Deutschland und auf openscienceASAP.org.
+
+Dieser Artikel wurde ursprünglich auf der Open Science Plattform <a href="http://openscienceasap.org/stream/2013/11/06/sum-up-oktober-2013/" title="Open Science Sum-Up Oktober">openscienceASAP.org</a> veröffentlicht.
+
+<h2>Was ist passiert?</h2>
+<strong>Mit dem Start der Open Access Week ist auch das Wiki <a title="forschungsdaten.org" href="http://www.forschungsdaten.org/index.php/Hauptseite" target="_blank">forschungsdaten.org</a> online gegangen</strong>, das eine Plattform für den Informationsaustausch bieten will und im Kern Informationen rund um dem Umgang mit digitalen Forschungsdaten bereithält. Das Wiki soll im Rahmen des Projekts <a title="re3data.org" href="http://www.re3data.org/" target="_blank">re3data.org</a> ausgebaut werden.
+
+Peter Murray-Rust lässt anlässlich der #oaweek die <a title="Peter Murray Rust Review" href="http://blogs.ch.cam.ac.uk/pmr/2013/10/24/oaweek-the-successes-of-openaccess/" target="_blank">Erfolge von Open Access Revue passieren</a> - nicht ohne auf bestehende Defizite aufmerksam zu machen. Auch Timothy Vollmer (Creative Commons) hat einige interessante <a title="Past Year in Open Access" href="http://creativecommons.org/weblog/entry/40129" target="_blank">Entwicklungen des letzten Jahres zu Open Access</a> zusammengefasst (eng).
+
+<strong>Arxiv.org stellt seine Schatzkammern auch in einer <a title="arxiv mobile app" href="http://openscience.com/green-open-access-on-your-iphone-arxiv-mobile-app/" target="_blank">mobilen App zur Verfügung</a>.</strong> Auch Apps wie <a title="Recently App" href="http://recentlyapp.com/" target="_blank">Recently</a> haben sich zum Ziel gesetzt das Auffinden und Browsen von wissenschaftlichen Papern, auch auf mobilen Endgeräten, zu einer real nutzbaren und nutzbringenden Angelegenheit zu machen.
+
+<strong>Wissenschaft findet mit Hilfe von Apps ihren Weg auf mobile Endgeräte.</strong> Neben Anwendungen die eher wie Suchmaschinen über mehrere wissenschaftliche Journale funktionieren und auch ein entsprechendes Maß an Serendipität tragen, gibt es von diversen Journals ebenso mobile Apps - (z.B. <a title="itunes Nature App" href="https://itunes.apple.com/app/id409367154" target="_blank">Nature</a>, <a title="iTunes Science App" href="https://itunes.apple.com/us/app/science-reader/id489932147" target="_blank">Science</a>, <a title="itunes National Science Academy App" href="https://itunes.apple.com/us/app/pnas/id399312700?mt=8)" target="_blank">Proceeding of the National Sciences Academy</a>, oder <a title="itunes Cell Biology App" href="https://itunes.apple.com/us/app/the-journal-of-cell-biology/id481769378?mt=8" target="_blank">Journal of Cell Biology</a> (alles Links zu iTunes).
+
+<strong>Die Diskussion von Open vs. Closed Access ist nicht immer abstrakt.</strong> Mit dem <a title="Open Access Button" href="https://blogs.plos.org/speakingofmedicine/2013/10/22/oa-button-launch-if-someone-hits-a-paywall-in-the-forest-does-it-make-a-sound/" target="_blank">Open Access Button</a> gibt es nun ein Projekt, das visualisieren will wenn jemand gegen eine Bezahlschranke läuft.
+
+<strong>Die deutsche Helmholtz-Gemeinschaft Deutscher Forschungszentren e.V. gab bekannt, dass sie eine <a title="Helmholtz Gemeinschaft verankert Richtlinie" href="http://www.helmholtz.de/artikel/helmholtz-gemeinschaft-verankert-richtlinie-1977/" target="_blank">neue Open-Access-Richtlinie verankert</a>.</strong> Zukünftig wird von Empfängern von Fördermitteln aus dem "Impuls- und Vernetzungsfonds" erwartet, Veröffentlichungen im Rahmen der geförderten Projekte frei zugänglich zu machen.
+
+<strong>Das elevate-Festival unter dem Schwerpunkt "Open Everything?" ist über die Bühne gelaufen</strong>. Auf <a title="Elevate 2013 Interviews Vimeo" href="http://vimeo.com/channels/elevate2013interviews" target="_blank">Vimeo stehen diverse Interviews</a> die im Rahmen des Elevate Festivals zum Thema Offenheit geführt wurden.
+<h2>Was hat sich auf openscienceASAP getan?</h2>
+<strong><a title="Open Science @ Uni Graz" href="projects-resources/open-science-at-uni-graz/">Open Science @ Uni Graz</a> eröffnete mit einer Podiumsdiskussion</strong> rund um die Zukunft von Wissenschaft. Weiters wurden noch Präsentationen in mehreren Lehrveranstaltungen gehalten sowie ein Infofolder ausgearbeitet. Wer auf dem Laufenden gehalten werden will, sollte den <a title="Newsletter Open Science @ Uni Graz" href="projects-resources/open-science-at-uni-graz/newsletter/">Newsletter</a> abonnieren.
+
+<strong>Und nicht zuletzt gab es noch den Release von openscienceASAP.org</strong> zu feiern. Unsere neue Plattform stellt offene Wissenschaft aus praktischer Sicht in den Mittelpunkt und soll es einfach machen, jene zu betreiben und sich darüber auszutauschen. Die Plattform ist aktuell noch im Teststadium (beta) und wird kontinuierlich verbessert. Freuen uns über Feedback und eure Ideen.
+<h2>So geht's weiter</h2>
+<strong>Peter Kraker, einer der diesjährigen Panton-Fellows, hat Peer Review und Reproduzierbarkeit von wissenschaftlicher Arbeit als einen Arbeitsschwerpunkt ausgewählt. </strong>Eine Debatte dazu wurde <a title="Peer Review reproducible OKFN" href="http://science.okfn.org/2013/10/18/its-not-only-peer-reviewed-its-reproducible/" target="_blank">im OKFN-Blog angestoßen (eng)</a>.
+
+<strong>Bis 8. November ist es noch möglich, Kommentare zum <a title="Open Data Initiative Declaration" href="http://globalopendatainitiative.org/declaration/" target="_blank">Entwurf der Global Open Data Declaration</a> einzureichen.</strong>
+
+<strong>Am 18. November findet das Berlin 11 Open Access Meeting statt,</strong> dieses Jahr mit einem <a title="Berlin 11" href="http://www.righttoresearch.org/act/berlin11/" target="_blank">Satellite-Event speziell für StudentInnen und junge ForscherInnen</a>.
+
+<h2>openscienceASAP Newsletter abonnieren</h2>
+
+			<div id="post-newsletter-form" class="mc_embed_signup">
+				<form action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" class="mc-embedded-subscribe-form validate" target="_blank" novalidate>
+					<input type="email" value="" name="EMAIL" class="email" id="post-mce-EMAIL" placeholder="Email Adresse" required/>
+					<div class="clear"><input type="submit" value="Anmelden" name="subscribe" id="post-mc-embedded-subscribe" class="yellow-button"/></div>
+				</form>
+			</div>
+Title: Open Science Sum-Up März
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/04/Open-Data-Institute-Annual-Summit-298x240.jpg -->
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/"  title="Monatliche Open Science Sum-Up">monatliche Open Science  Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie openscienceASAP.
+
+<h3>Das letzte Monat im Rückblick</h3>
+<strong>Zukünftig sollen auch Software und Rohdaten die verdiente Würdigung erfahren und einfach auffindbar sein.</strong> Beides zitierbar machen, dazu haben sich Figshare, das Mozilla Science Lab und GitHub <a title="FigShare Mozilla GitHub" href="http://figshare.com/blog/Working_with_Github_and_Mozilla_to_enable_Code_as_a_Research_Output_/117">zusammen geschlossen</a>.  Wie das am besten geht, dazu wurde auf <a title="GitHub Software Citation" href="https://github.com/mozillascience/code-research-object/issues/12">GitHub diskutiert</a>. Weitere Kriterien für eine erfolgreiche Umsetzung sind Versionierung, Qualitätssicherung, Nachvollziehbarkeit, Wiederverwendbarkeit und persistente Identifikatoren, so das <a title="SciForge" href="http://www.gfz-potsdam.de/forschung/ueberblick/technologietransfer-zentren/cegit/projekte/sciforge/">GeoForschungsZentrum</a>.
+
+<strong>Die beiden Open Research Data Projekte DataBib und r3data.org schliessen sich zusammen</strong> um wissenschaftliche Daten-Repositories einfach auffinden zu können. So sollen mehr innovative Features entwickelt werden und die Nachhaltigkeit der <a title="DataBib r3data" href="http://www.re3data.org/2014/03/datacite-re3data-org-databib-collaboration/">Idee</a> gesichert werden.
+
+<strong>DNAdigest setzt sich für das Teilen von genomischen Daten ein</strong> - und hat eine <a title="Crowdfunding DNAdigest" href="https://www.indiegogo.com/projects/dna-digest-collaborative-data-cures-genetic-diseases">Crowdfunding-Kampagne gestartet</a>. Das erhoffte Geld soll dabei für verschiedene Community-Aktionen (Edithons, Hackathons u.ä.) genutzt werden.
+
+<strong> Open Science 2.0 öffnet den Weg zur Kommerzialisierung des Wissens.</strong> Philip Mirowski greift dazu in der FAZ <a title="FAZ Mirowski" href="http://www.faz.net/aktuell/feuilleton/geisteswissenschaften/das-digitale-denken-iii-die-offene-wissenschaft-und-ihre-freunde-12862246-p3.html">Effizienz und infrastrukturelle Aspekte</a> heraus. Es existieren jedoch noch <a title="andere Denkschulen" href="http://book.openingscience.org/basics_background/open_science_one_term_five_schools_of_thought.html">andere Denkschulen</a> sowie Aspekte, und so dürfte es nicht lange dauern bis Kommentare folgen.
+
+<strong>Auch die Berliner Gazette setzt sich kritisch mit dem Openness-Begriff auseinander</strong>, ihr <a title="Berliner Gazette Openness" href="http://berlinergazette.de/kritik-an-open-konjunktur/">Kommentar differenziert</a> zwischen Offenheit und Offenheit zur Tarnung von Geschlossenheit.
+
+[caption id="attachment_2539" align="alignnone" width="580"]<a href="http://openscienceasap.org/wp-content/uploads/2014/04/Open-Data-Institute-Annual-Summit.jpg"><img class="size-medium wp-image-2539" alt="Annual Summit 2013, cc by-nc-sa 2.0 UK Open Data Institute" src="http://openscienceasap.org/wp-content/uploads/2014/04/Open-Data-Institute-Annual-Summit-580x386.jpg" width="580" height="386" /></a> <a title="Open Data Institute">Annual Summit 2013</a>, <a title="cc by-nc-sa 2.0" href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc by-nc-sa 2.0</a> <a title="UK Open Data Institute" href="https://www.flickr.com/photos/ukodi/">Open Data Institute</a>[/caption]
+
+<strong>Research Gate bietet nun einen Open Review an.</strong> Damit soll über das soziale Netzwerk transparent, <a title="ResearchGate Open Review" href="http://www.spektrum.de/alias/transparente-forschung/wir-setzen-auf-den-schwarmcharakter/1257422">offen und in Echtzeit die Qualität gesichert</a> werden, wie in einem ersten Fall aus der Stammzellenforschung schon gezeigt wurde.
+
+<strong>Einen Testlauf für Peer Review mit Twitter und Storify hat Robin Wharton durchgeführt.</strong> In ihrem <a title="Online Klasse Peer Review" href="http://learning.instructure.com/2014/03/using-twitter-and-storify-for-multimodal-peer-review-in-onlinehybrid-classes/">Fall einer Online-Hybrid-Klasse</a> helfe das auch der digitalen Alphabetisierung.
+
+<strong>"79% der Befragten sind der Ansicht, dass die Ergebnisse öffentlich finanzierter Forschung kostenlos im Internet zur Verfügung gestellt werden sollten."</strong> Diese und weitere Ansichten der europäischen BürgerInnen wurde in einer <a title="Access Studie" href="http://scienceblog.at/was-h%C3%A4lt-%C3%B6sterreich-von-wissenschaft-und-technologie-%E2%80%94-ergebnisse-der-neuen-eu-umfrage-spezial-eurob#.UyxSyKbUKY5">aktuellen Studie</a> der EU erhoben. Österreich nimmt bei der Frage jedoch eine Schlussposition ein.
+
+<strong>Um den Status in Österreich zu verbessern, wurde eine Petition für eine ausreichende Finanzierung öffentlicher Wissenschaft gestartet.</strong> Bisher haben knapp 49.000 UnterstützerInnen <a title="Wissenschaft ist Zukunft" href="http://www.wissenschaft-ist-zukunft.at/">unterzeichnet</a>, die Petition läuft noch weiter.
+
+<strong>3.400 Euro pro Zeitschrift - das ist der Uni Konstanz zu teuer.</strong> Sie <a title="Uni Konstanz Elsevier" href="http://www.tagesspiegel.de/wissen/teure-wissenschaftsverlage-uni-konstanz-trennt-sich-von-elsevier/9678390.html">kündigt die Lizenzverhandlungen</a> mit dem Wissenschaftsverlag Elsevier wegen dessen "aggressiver Preispolitik" auf.
+
+<strong>Wie lang ist zu lang? Überlegungen zu Embargo-Perioden stellt Ben Johnson an</strong>, und befindet dass <a title="Ben Johnson Embargopolitik" href="http://ersatzben.wordpress.com/2014/03/05/thoughts-on-journal-embargoes/">nur wenig gegen Zero-Day-Embargos spricht</a>. Und nein, das hat nichts mit <a title="Wikipedia Zero Day Exploit" href="http://de.wikipedia.org/wiki/Exploit#Zero-Day-Exploit">Zero-Day-Exploits</a> zu tun.
+
+<strong>Jetzt haben auch BiologInnen einen eigenen Preprint Server - bioRxiv.</strong> Der seit November 2013 <a title="bioRxiv" href="http://biorxiv.org">aktive Service</a> ermöglicht das Onlinestellen von Publikationen, noch bevor diese in Journals veröffentlicht werden. Übernommen wurde die Idee, wie schwer zu eraten ist, von Arxiv.
+
+<strong>Einiges an Videos und weiteren Inhalten zu Konferenzen ging diesen Monat online:</strong> Die Science Online Conferenz zu Wissenschaftskommunikation im Netz in Raleigh (USA) stellte die <a title="Science Online" href="http://scienceonline.com/live/archive/?tag=scio14">Keynotes zum Nachsehen</a> online, die Science 2.0 Conference in Hamburg teilte alle Präsentationen <a title="Science 2.0" href="http://www.science20-conference.de/programme/">zur Nachschau</a> und die FOSSGIS 2014 in Berlin hat eigentlich <a title="Videos FOSSGIS 2014" href="http://www.fossgis.de/wiki/Konferenz_2014/Videoaufzeichnung">alles veröffentlicht</a>.
+
+<strong>Das World Wide Web wird 25.</strong> Der Erfinder Tim Berners-Lee formuliert aktuelle Herausforderungen für das WWW und setzt Offenheit, Privatsphäre und den Digital Divide dabei <a title="Webat25" href="http://www.webat25.org/">ganz oben auf die Agenda</a>.
+
+<strong>Und damit die praktischen Skills nicht verloren gehen:</strong> Der <a title="Guide for Open Data file formats with python" href="http://opendata.stackexchange.com/questions/1208/a-python-guide-for-open-data-file-formats/1210?stw=2#1210">Python Guide für Open Data Dateiformate</a>.
+<h3>Ein Blick nach Vorne</h3>
+<strong>Der <a title="Open Commons Kongress 2014" href="http://opencommons.public1.linz.at/oc14">Open Commons Kongress 2014</a> findet vom 20. - 21. Mai in Linz statt</strong> und hat auch heuer wieder einen Schwerpunkt zu Wissenschaft und Bildung. Neben zahlreichen anderen Talks und Workshops wird es sich um Open Science in Österreich, Open Educational Resources und Open Education drehen.
+
+<strong>Das Programm der <a title="re publica" href="http://re-publica.de/">re:publica</a> vom 6. - 8. Mai in Berlin ist online</strong> und bietet wieder eine Menge an Inhalt rund um das Web und dessen gesellschaftlichen Auswirkungen an. Open Science und Open Data ist in diversen Talks enthalten, und es gibt sogar eine eigene Open Science Subconference.
+
+<strong>Im Juni wird <a title="Peter Murray-Rust" href="http://de.wikipedia.org/wiki/Peter_Murray-Rust">Peter Murray-Rust einen Wien-Besuch absolvieren</a></strong>. Geplant sind - in Zusammenarbeit zwischen OKF-AT und FWF - Events rund um Content Mining und Open Science. Stay tuned!
+
+<h3>openscienceASAP</h3>
+<strong><a title="Open Access an der Uni Wien" href="http://openscienceasap.org/stream/2014/03/10/osia4-open-access-an-der-uni-wien/">Open Access an der Uni Wien</a> sowie <a title="" href="http://openscienceasap.org/stream/2014/03/27/osia5-mobilitaetsforschung/">Open Source und Open Data in der Mobilitätsforschung</a></strong>, das waren die Themen im Open Science in Aktion Podcast im letzten Monat. Und wenn man schon beim Thema ist, muss auf die geniale Folge des OpenScienceRadio zu <a title="OpenScienceRadio Folge Reproduzierbarkeit" href="http://www.openscienceradio.de/2014/03/osr015-reproduzierbarkeit/">Reproduzierbarkeit</a> verwiesen werden.
+
+<h3>openscienceASAP Newsletter abonnieren</h3>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/04/10/open-science-sum-up-maerz/" title="Open Science Sum-Up März">openscienceASAP.org</a> veröffentlicht.</strong>
+
+
+

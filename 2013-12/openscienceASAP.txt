@@ -1,0 +1,44 @@
+Titel: Open Science Sum-Up Dezember
+
+Der <a title="Monthly Open Science Sum-Up" href="http://openscienceasap.org/social/monthly-sum-up/">Monthly Open Science Sum-Up</a> ist eine monatliche Zusammenfassung und bietet eine kleine Aussicht ins nächste Monat hinein: Weltweit, in Österreich, in Deutschland und auf openscienceASAP.org.
+
+[caption id="attachment_1931" align="alignnone" width="580"]<a href="http://openscienceasap.org/wp-content/uploads/2014/01/ChromeWebLab-Data-Tracer-Science-Museum.jpg"><img class="size-medium wp-image-1931" alt="Chrome Web Lab - Data Tracer - Science Museum, cc by 2.0 Stew Dean" src="http://openscienceasap.org/wp-content/uploads/2014/01/ChromeWebLab-Data-Tracer-Science-Museum-580x386.jpg" width="580" height="386" /></a> <a title="ChromeWebLab: Data Tracer: Science Museum" href="http://www.flickr.com/photos/stewdean/8561728305">ChromeWebLab: Data Tracer: Science Museum, </a><a title="cc by 2.0" href="http://creativecommons.org/licenses/by/2.0/">cc by 2.0 </a><a title="Stew Dean" href="http://www.flickr.com/photos/stewdean/">Stew Dean</a>[/caption]
+
+<h2>Das letzte Monat im Rückblick</h2>
+<strong>Ein riesen Schritt zu Jahresbeginn: SCOAP3 startet Länder und Zeitschriften übergreifend</strong>, womit praktisch alle <a title="scoap3.org" href="http://scoap3.org/">Hoch-Energie-Physik-Zeitschriften Open Access</a> werden.
+
+<strong>Gute und schlechte News bei Forschungsdaten:</strong> Eine Studie in Nature ergab, dass die Wahrscheinlichkeit, an verwendete Rohdaten wissenschaftlicher Arbeiten zu gelangen, <a title="Atlantic Research Raw Data" href="http://www.theatlantic.com/technology/archive/2013/12/missing-links-access-to-research-papers-raw-data-drops-17-a-year/282548/">jedes Jahr um 17% sinkt</a>. Dafür gibt es jede Menge neue Daten für ChemikerInnen: <a title="Chemie Datenbank öffentlich zugänglich" href="http://blogs.nature.com/news/2013/12/patent-database-of-15-million-chemical-structures-goes-public.html">4 Terabyte und 15 Millionen chemische Strukturen</a> sind nun <a title="Digital Journal SureChem" href="http://www.digitaljournal.com/pr/1634264">öffentlich zugänglich</a>. Auch BiologInnen und MedizinerInnen dürfen sich freuen: Papers auf <a title="BioMed Central" href="http://www.biomedcentral.com/about">BioMed Central</a> müssen ihre zugehörigen Daten <a title="Creative Commons BioMed Daten" href="http://creativecommons.org/weblog/entry/41329">zukünftig unter CC0 veröffentlichen</a>.
+
+<strong>Publishers vs. WissenschaftlerInnen geht in die nächste Runde</strong>: Nach <a title="Elsevier War on Access" href="http://svpow.com/2013/12/17/elsevier-steps-up-its-war-on-access/">Abmahnungen an verschiedene Universitäten</a> patroulliert Elsevier jetzt auch <a title="Elsevier goes academia.edu" href="http://medcitynews.com/2013/12/another-open-science-showdown-elsevier-goes-academia-edu/">soziale Netzwerke</a> wie academia.edu um Urheberrechtsverletzungen zu finden.
+
+<strong>Damit stellt sich Elsevier gegen aufkeimende Ideen</strong> wie <a title="Continuous Publishing Open Source Academic" href="http://blogs.lse.ac.uk/impactofsocialsciences/2013/12/23/continuous-publishing-and-being-an-open-source-academic/">kontinuierliches Publizieren</a>. Dies geht auch den aktuellen Nobelpreisträgern Higgs und Schenkman zu weit, weshalb sie sich <a title="Nobelpreisträger Open Access" href=" http://science.orf.at/stories/1729803/">für Open Access einsetzen</a>. Die British Ecological Society ist da wesentlich aufgeschlossener und <a title="British Ecological Society" href="http://jabberwocky.weecology.org/2013/12/09/british-ecological-society-journals-now-allow-preprints/">erlaubt nun Preprints</a>.
+
+<strong>Der Move to Mobile findet allmählich auch in der Wissenschaft statt.</strong> Smartphones und andere mobile Geräte werden so zu <a title="Smartphones Open Science everyone" href=" http://www.laboratoryequipment.com/news/2013/12/smartphones-open-science-everyone">kleinen Citizen-Science Laboratorien</a> zum Messen, Nachschlagen und gemeinsamen Arbeiten vor Ort.
+
+<strong>UNESCO startet ein <a title="Creative Commons UNESCO" href=" https://creativecommons.org/weblog/entry/41265">Open Access Repository</a></strong> und <a title="UNESCO Open Access" href="http://www.unesco.org/new/en/media-services/single-view/news/unesco_makes_its_publications_available_free_of_charge_through_a_new_open_access_repository/#.UrDHaPbRujQ">öffnet mehr als 300 Berichte aus der ganzen Welt</a>. Gemäß ihrer <a title="Open Access Policy" href="http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ERI/pdf/oa_policy_rev2.pdf">Open Access Policy</a> soll noch mehr folgen, zumeist unter CC BY-SA Lizenz.
+
+<strong>Reproduzierbarkeit durch Open Methodology, das war Sophie Kershaws Schwerpunkt als Panton Fellow.</strong> Ihre Erfahrungen damit in der Lehre hat sie in einem <a title="Mozilla Science reproducible research" href="http://mozillascience.org/reproducible-research-teaching-the-how/">Artikel</a> nieder geschrieben.
+
+<strong><a title="Opening Science book" href="http://blog.martinfenner.org/2013/12/05/opening-science---the-book/">Opening Science - The Book</a></strong>, ein Buch in welchem Martin Fenner über die Veränderungen in der Wissenschaft durch das Internet schreibt. Das Buch hat gleich selber die Gunst der Zeit genutzt und so ist es auf GitHub frei verfügbar - offen zum Verwenden und Weiterentwickeln.
+
+<strong>Die <a title="Helmholtz OpenScience Workshop" href=" http://oa.helmholtz.de/index.php?id=336">Unterlagen</a> zum Workshop "Von Open Access zu Open Science"</strong> von der Helmholtz Gesellschaft stehen online.
+
+<strong>Das Mozilla Science Lab hat auch ein paar aktuelle Infos zu Open Science gesammelt,</strong> welche ihr <a title="mozillascience" href="http://mozillascience.org/the-latest-from-the-open-science-community/">hier</a> findet.
+
+<strong>Die <a title="OpenScience Italien" href=" http://openscience.it/">Open Science Arbeitsgruppe der OKFN Italien</a> hat gestartet</strong> und es gibt eine <a title="Open Science Italien Mailingliste" href="https://lists.okfn.org/mailman/listinfo/open-science-it">Mailingliste</a> für alle die mitmachen wollen.
+
+<h2>Ein Blick nach Vorne</h2>
+<strong>Die <a title="Open Science Graz" href=" http://openscienceasap.org/stream/2013/12/16/open-sky-eine-nacht-im-himmel/">Open Science Community in Graz</a> besucht die <a title="Johannes Kepler Volkssternwarte" href="http://www.stav.at/sternwarte/steinberg/">Johannes Kepler Volkssternwarte</a></strong> und spricht auch über Citizen Science in der Astronomie.
+
+<strong><a title="Call for OC14" href="http://opencommons.public1.linz.at/call-for-oc14-deine-idee-fur-den-open-commons_kongress"> Call for Open Commons Congress 2014 in Linz</a> hat gestartet</strong>. Dabei werden auch Vorträge und Workshops zu Open Science und Open Educational Resources gesucht.
+
+<strong>Ein weiterer</strong> <strong>Call for Papers ist offen</strong>, für die Konferenz "Opening science to meet future challenges" am 11. März 2014 in Warschau. Thema sind infrastrukturelle, soziale, ökonomische und rechtliche Aspekte von Openness. Akzeptiert werden alle Einreichungen, die sich mit Open Science befassen, Details gibt es <a title="Opening Science Call" href="http://www.ebib.pl/wp-content/uploads/2013/12/Opening-Science-call-for-papers.pdf">hier</a>.
+
+<strong>Von 20.-22. Februar findet der <a title="Citizen Cyberscience Summit" href="http://cybersciencesummit.org/">Citizen Cyberscience Summit</a> in London statt</strong>. Am ersten Tag geht es um die Anwendungen und Potenziale von Citizen Cyberscience. Am zweiten Tag geht es um konkrete Projekte und Partizipation. Das Event endet mit einem Hackday rund um Hard- und Software.
+<h2>Unsere Projekte</h2>
+<strong>Am 10. Dezember fand ein <a title="Altmetrics Meetup" href="http://okfn.at/2013/11/28/open-science-meetup-zu-altmetrics/">Meetup</a> der OKFN Open Science Arbeitsgruppe in Wien statt.</strong> Schwerpunkt war dieses Mal das Thema Altmetrics aus theoretischer und praktischer Sicht. Abgerundet wurde die Veranstaltung durch eine Präsentation der Open Access Ausschreibung des FWF. Wir haben mitgefilmt und stellen demnächst Folien und das Video zur Verfügung.
+<h1>openscienceASAP Newsletter abonnieren</h1>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+&nbsp;
