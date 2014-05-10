@@ -1,0 +1,65 @@
+Title: Open Science Sum-Up April
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/05/NDNAD-580x580.jpg -->
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/"  title="Monatliche Open Science Sum-Up">monatliche Open Science  Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+<h1>Das letzte Monat im Rückblick</h1>
+
+<strong>Große Aufmerksamkeit hat es in den letzten Tagen rund um Elsevier und deren Preisgestaltung gegeben.</strong> <a href="http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/">Timothy Gowers</a> hat mittels Freedom-Of-Information-Act Anfragen Zahlen zu den Ausgaben britischer Bibliotheken für Subscription-Abos von Elsevier erhalten. Diese zeigen eine sehr ungleich verteilte Kostenpolitik und starke Anstiege in den letzten Jahren. Michelle Brook von der OKFN beließ es nicht dabei, und hat zu weiteren Verlagen wie Wiley, Oxford University Press und Springer angefragt.
+
+<strong>Eine <a title="PeerJ Survey MegaJournals" href=" https://peerj.com/articles/365/">Studie über Publikationen bei Megajournals</a></strong> ging den Fragen nach, warum dort eingereicht wurde, welche Publikationen es waren, die Finanzierung der APC's und ob die AutorInnen in Zukunft wieder dort veröffentlichen würden. Was ein Megajournals ist beschreibt <a title="Open Access MegaJournals" href="http://creativecommons.org.nz/2013/10/open-access-megajournals-have-they-changed-everything/">hier</a> Peter Binfield.
+
+<strong>Die Community hinter dem Open Access Button <a title="Indiegogo Open Access Button" href="https://www.indiegogo.com/projects/button-2-0#home">sucht auf Indiegogo</a></strong> Leute die den Ausbau des Tools finanziell unterstützen möchten. Zückt die Kreditkarten!
+
+<strong>Mit <a title="burger schaffen wissen" href="http://www.buergerschaffenwissen.de/">"Bürger schaffen wissen"</a> ist speziell für Deutschland nun eine Citizen Science Plattform an den Start gegangen</strong> und freut sich sicher über neue Projekte. Die Plattform richtet sich besonders an Schulen, und bietet auch an bei der Projektentwicklung mitzuhelfen.
+
+<strong>Ein Buch speziell zur Umsetzung von reproduzierbarer Forschung erscheint,</strong> und ist auch zum <a title="Implementing Reproducible Research" href=" https://osf.io/s9tya/wiki/home/">freien Download verfügbar</a>. Inhaltlich liegt der Fokus bei hilfreichen Werkzeugen wie Cloud Computing oder Data Repositories, und diskutiert auch rechtliche Aspekte.
+
+<strong>Wer mit Daten und statistischer Software arbeitet ist irgendwann schon mal mit dem Thema Reproduzierbarkeit in Berührung gekommen.</strong> Hier hat <a title="the rise of the r computer language is bringing open source to science" href="http://www.fastcolabs.com/3028381/how-the-rise-of-the-r-computer-language-is-bringing-open-source-to-science">R einen sehr wichtigen Beitrag</a> geleistet, genauso wie <a title="iPython" href="http://ipython.org/">iPython</a>, welches es jetzt in Version 2.0 gibt.
+
+<strong>Auch die National Science Foundation setzt sich mit Zitations- und Attributionsfragen auseinander,</strong> und veröffentlicht einen <a title="NSF Citation Recommendation Call" href=" http://www.nsf.gov/pubs/2014/nsf14059/nsf14059.jsp">Call for Proposals</a> für Zitationsempfehlungen von Daten und Sourcecode.
+
+<strong>Das EU-FP7-Projekt FOSTER (Facilitate Open Science Training for European Research) bittet um Beiträge,</strong> um einen Schaukasten mit Open Access, Open Data und Open Science aufzubauen. Der <a title="FOSTER Content" href="http://www.fosteropenscience.eu/content-for-open-science/">Call for Content</a> wird dauerhaft offen sein.
+
+<strong>Material von der Konferenz "Opening Science to Meet Future Challenges"</strong> ist nun online, es gibt <a title="OSMFC Videos" href="https://conference2014.ceon.pl/conference/videos/">Videos</a> und <a title="OSMFC Presentations" href=" https://conference2014.ceon.pl/conference/presentations/">Präsentationen</a>.
+
+<strong><a title="ContentMine" href="http://contentmine.org/">ContentMine</a> ist ein Projekt vom Shuttleworth Fellow Peter Murray-Rust,</strong> das es sich zum Ziel gesetzt hat 100 Millionen Fakten aus wissenschaftlicher Literatur zu extrahieren. Dazu wird er im Juni auch nach Österreich kommen.
+
+<strong>Die Paris-Lodron-Universität Salzburg unterzeichnet Berliner Erklärung und veröffentlicht Open Access-Policy.</strong> Sie ist somit die 6. Institution in Österreich mit einem <a title="Uni Salzburg Open Access Leitbild" href="http://www.uni-salzburg.at/index.php?id=65443">Open Access Leitbild</a>.
+
+<strong>Der <a title="FWF Jahresbericht" href="http://www.fwf.ac.at/de/public_relations/publikationen/jahresberichte/fwf-jahresbericht-2013.pdf">FWF hat seinen Jahresbericht veröffentlicht</a> und beinhaltet auch einen kleinen Review ihrer Open Access Aktivitäten im Jahr 2013.</strong> Einiges hat sich bewegt und die Maßnahmen lassen auf ein gutes Jahr 2014 hoffen.
+
+<strong>Schlechte Aussichten scheint es dagegen für die Finanzierung von Wissenschaft aus Stiftungen in Österreich zu geben.</strong> Die <a title="WU Wien Studie" href="http://science.apa.at/rubrik/politik_und_wirtschaft/Stiftungen_fuer_Forschung_Experten_skeptisch/SCI_20140414_SCI40111351017920968">WU Wien hat sich das Umfeld angesehen</a> und Barrieren bei der steuerlichen Absetzung und der Gründung einer Stiftung, sowie eine fehlende Großspenden-Kultur als Gründe angegeben.
+
+<strong>Im Rückblick zum Workshop <a title="Wikipedia meets University" href="https://www.wikimedia.at/content/15-m%C3%A4rz-2014-wikipedia-meets-university">"Wikipedia meets University"</a> </strong>gibt es Zusammenfassungen und Links der Sessions. Es wurde der Frage nachgegangen, welche Chancen und Herausforderungen sich im Universitätsalltag durch Wikipedia ergeben.
+
+[caption id="attachment_2675" align="alignnone" width="580"]<a href="http://openscienceasap.org/wp-content/uploads/2014/05/NDNAD.jpg"><img class="size-medium wp-image-2675" alt="NDNAD by Jer Thorp, cc-by 2.0" src="http://openscienceasap.org/wp-content/uploads/2014/05/NDNAD-580x580.jpg" width="580" height="580" /></a> <a title="NDNAD" href="http://www.flickr.com/photos/blprnt/3590936904/in/photostream/">NDNAD</a> by <a title="Jer Thorp" href="http://www.flickr.com/photos/blprnt/">Jer Thorp</a>, <a title="cc-by 2.0" href="https://creativecommons.org/licenses/by/2.0/">cc-by 2.0</a>[/caption]
+
+<h1>Ein Blick nach Vorne</h1>
+
+<strong>Gerade findet die <a title="re-publica" href="http://re-publica.de/">re-publica</a> in Berlin statt - die größte größten Social-Media-Konferenz Europas.</strong> Am Wochenende vor der Konferenz gab es bereits einen <a title="Youth Science Hack Day" href="http://re-publica.de/en/news/call-projects-youth-science-hack-day">Youth Science Hack Day</a> und auch währende dem Festival gibt es immer wieder Sessions zu Wissenschaft und Offenheit.
+
+<strong>Am 20. und 21. Mai findet der <a title="OC 14 Linz" href=" http://opencommons.public1.linz.at/oc14">Open Commons Kongress 2014</a> in Linz statt.</strong> In verschiedenen Tracks gibt es auch Sessions zu <a title="OER Lehrbuch" href="http://opencommons.public1.linz.at/oc14-vortrag-l3t-der-weg-eines-oer-lehrbuches">OER-Lehrbüchern</a>, <a title="UnuniTV Open Education" href="http://opencommons.public1.linz.at/oc14-vortrag-ununi-tv-meets-open-education-bildungspolitischer-rockn-roll-mit-shopsystem">Bildung in der Netzwerkgesellschaft</a>, und zu <a title="Open Science Österreich" href="http://opencommons.public1.linz.at/oc14-vortrag-open-science-in-osterreich-packen-wirs-an">Open Science</a>.
+
+<strong>Die International Conference for E-Democracy and Open Government 2014, kurz CeDEM, findet vom <a title="CeDEM 2014" href="http://www.donau-uni.ac.at/en/department/gpa/telematik/edemocracy-conference/edem/vid/19486/">21. - 23. Mai</a> wieder in Krems an der Donau-Universität statt.</strong> Und: Das damit verbundene Journal of e-Democracy and Open Government sucht noch Publikationen für die nächste <a title="Spezial-Ausgabe zu Open Government Data and Open Policies" href="http://www.jedem.org/announcement/view/12">Spezial-Ausgabe zu Open Government Data and Open Policies</a>.
+
+<strong><a title="OpenSym2014" href="http://www.opensym.org/">OpenSym2014</a>, ein Event rund um das Thema Open Collaboration,</strong> findet von 27. - 29. August in Berlin statt. Es geht um Free/Libre/Open Source, Daten, OER, IT-getriebene Innovation und Wikis.
+
+<strong>Die erste Juni Woche in Wien ist vollgepackt mit spannenden Terminen:</strong> Peter Murray Rust ist beim FWF und spricht über Content Mining, zum gleichen Thema wird es auch einen Workshop am ISTA geben. Ein Hackathon im Metalab setzt sich mit praktischen Fragen auseinander. Abgerundet wird das Ganze mit einem OKF-AT Open Science MeetUp. Genaueres gibt es in Kürze hier und auf okfn.at!
+
+<h1>openscienceASAP & OKF Österreich</h1>
+
+<strong>Bei Open Science in Aktion gibt es zwei Beiträge aus Graz:</strong> Zuerst sprach <a title="Lisa Schilhan" href=" http://openscienceasap.org/stream/2014/04/07/osia6-open-access-an-der-uni-graz/">Lisa Schilhan</a> über Open Access an der Karl Franzens Universität, danach <a title="Karl Voit" href=" http://openscienceasap.org/stream/2014/04/21/osia7-open-science-in-der-praxis/">Karl Voit</a> über Open Science bei seiner Dissertation. Auch das befreundete Open Science Radio hat wieder was gemacht, dieses Mal zu <a title="Kollaborative Wissenschaft" href=" http://www.openscienceradio.de/2014/04/osr016-kollaborative-wissenschaft/">kollaborativem Arbeiten</a>.
+
+<strong>Für alle GitHub User:</strong> Der Sum Up wird zum leichteren Verteilen jetzt auch auf dem beliebten <a title="&quot;GitHub" href="https://github.com/openscienceASAP/monatlicher-open-science-sum-up">Repository geteilt</a>. So können leichter Korrekturen gemacht, oder neuer Inhalt (wie z. B. Übersetzungen) gemacht werden.
+
+<h1>openscienceASAP Newsletter abonnieren</h1>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/05/07/open-science-sum-up-april/" title="Open Science Sum-Up MONTH">openscienceASAP.org</a> veröffentlicht.</strong>
+
+
+
