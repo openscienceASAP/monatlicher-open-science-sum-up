@@ -10,7 +10,7 @@ IMAGE
 
 <h1>Ein Blick nach Vorne</h1>
 
-<h1>Unsere Projekte</h1>
+<h1>openscienceASAP & OKF Österreich</h1>
 
 <h1>openscienceASAP Newsletter abonnieren</h1>
 SNIPPET NEWSLETTER

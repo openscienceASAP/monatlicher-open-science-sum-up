@@ -7,7 +7,8 @@ Die Texte stehen alle unter der [Creative Commons Namensnennung 3.0 Unported Liz
 
 Mehr erfährt man unter [Monatlicher Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) und der Newsletter dazu kann hier [abonniert](http://openscienceasap.org/newsletter/) werden.
 
-Sum-Up's:
+## Sum-Up's
+- [April 2014](http://openscienceasap.org/stream/2014/04/10/open-science-sum-up-april/)
 - [März 2014](http://openscienceasap.org/stream/2014/04/10/open-science-sum-up-maerz/)
 - [Februar 2014](http://openscienceasap.org/stream/2014/03/14/open-science-sum-up-februar/)
 - [Januar 2014](http://openscienceasap.org/stream/2014/02/11/open-science-sum-up-januar/)

@@ -5,7 +5,7 @@ openscienceASAP.
 
 <!- Quelle -->
 
-Der Artikel wurde ursprünglich auf <a href="URL" title="Open Science Sum-Up MONTH">openscienceASAP.org</a> veröffentlicht.
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/05/07/open-science-sum-up-april/" title="Open Science Sum-Up MONTH">openscienceASAP.org</a> veröffentlicht.</strong>
 
 <!- Newsletter Formular -->
 
@@ -15,4 +15,4 @@ Der Artikel wurde ursprünglich auf <a href="URL" title="Open Science Sum-Up MON
 
 <!- Featured Image OKFN -->
 
-<!-- magazine.image = URL -->
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/05/NDNAD-580x580.jpg -->
