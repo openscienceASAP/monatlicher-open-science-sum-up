@@ -59,7 +59,7 @@ Der <a href="http://openscienceasap.org/social/monthly-sum-up/"  title="Monatlic
 <div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
 </form></div>
 
-<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/05/07/open-science-sum-up-april/" title="Open Science Sum-Up MONTH">openscienceASAP.org</a> veröffentlicht.</strong>
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/05/07/open-science-sum-up-april/" title="Open Science Sum-Up April">openscienceASAP.org</a> veröffentlicht.</strong>
 
 
 
