@@ -1,0 +1,51 @@
+Titel: Open Science Sum-Up Mai
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+[caption id="attachment_2763" align="alignnone" width="580"]<a href="http://openscienceasap.org/wp-content/uploads/2014/06/ZomeBall-e1402654725445.jpg"><img class="size-medium wp-image-2763" alt="Zome Ball at the London Knowledge Lab, cc by-nc-sa 2.0 Juliette Culver" src="http://openscienceasap.org/wp-content/uploads/2014/06/ZomeBall-e1402654725445-580x343.jpg" width="580" height="343" /></a> <a title="&quot;Zome" href="https://www.flickr.com/photos/julietteculver/4171649933">Zome Ball at the London Knowledge Lab</a>, <a title="&quot;cc" href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc by-nc-sa 2.0</a> <a title="Juliette Culver" href="https://www.flickr.com/photos/julietteculver/">Juliette Culver</a>[/caption]
+
+<h1>Der letzte Monat im Rückblick</h1>
+
+<strong>100 Millionen Fakten pro Jahr.</strong> Das ist das Ziel von Peter Murray-Rust im Rahmen seines Projekts ContentMine. Warum und wie erklärt er in einem <a title="PMR" href="http://derstandard.at/2000001938945/Wir-wollen-100MillionenFaktenim-Jahr-extrahieren?ref=article">Interview mit dem Standard</a>, das am Rande eines Vortrags- und Workshopprogramms in Wien stattfand.
+
+<strong>GitHub bietet nun <a href="https://github.com/blog/1840-improving-github-for-science">DOIs für wissenschaftlich genutzte Repositorien</a> an.</strong> Damit wird Source Code eindeutig zitierbar. Ein spannender Fortschritt für kollaboratives Arbeiten und Forschen!
+
+<strong>Mit dem <a href="http://openpolicynetwork.org">OpenPolicyNetwork</a> ist ein neues Projekt am Start</strong>, welches Initiativen, Projekte und Menschen rund um Openness unterstützt.
+
+<strong>In einem <a href="http://www.sparc.arl.org/news/beyond-boycott-qa-timothy-gowers">Interview mit sparc</a> gibt Timothy Gowers einen Überblick über den neuen Stand der Dinge,</strong> nach seiner <a title="Elsevier some Facts" href="http://gowers.wordpress.com/2014/04/24/elsevier-journals-some-facts/#more-5430">Aufdeckung der Praktiken von Elsevier</a>. Er betont dabei auch die wichtige Rolle von WissenschaftlerInnen bei Vertragsverhandlungen.
+
+<strong>Die <a href="http://irights.info/artikel/neue-vorschlaege-alter-streit-wissenschaftsschranke-in-der-diskussion/23148">Wissenschaftsschranke</a> wurde von Katharina de la Durantaye in Deutschland wieder in die Diskussion gebracht</strong>. In ihrer Studie wird ein gehbarer Weg einer Urheberrechts-Reform gezeigt, welche in Bildung und Wissenschaft einfache Nutzung von Materialien ermöglicht.
+
+<strong>"<a href="http://www.hiig.de/fehler-im-system-open-data-und-publikationsgetriebene-forschung/">Daten teilen ist wie Elektroautos kaufen</a>" meint Benedikt Fecher vom HIIG Berlin</strong> - denn beides ist gut für die Allgemeinheit. Doch es gibt noch ein paar Hindernisse, wie z.B. fehlende Anreize und formale Anerkennung.
+
+<strong>Der Gedanke "Apps for Everything" hält auch im Bereich Open Access Einzug.</strong> Bei openscience.com gibt's <a href="http://openscience.com/great-idea-app-interview-creator-pubchase/">ein Interview mit dem Macher hinter PubChase, Matthew Davis</a>. PubChase ist eine Multiplattform-Anwendung, die es WissenschaftlerInnen (gerade im Bereich der Life Sciences) ermöglich soll, sich für sie relevante Paper empfehlen zu lassen. Das Ganze beruht auf statistischen Berechnungen und Data Mining.
+
+<strong>Preprints - Postprints - offene Daten:</strong> Ross Mounce fasst <a href="http://rossmounce.co.uk/2013/05/20/easy-steps-towards-open-scholarship/">in wenigen Schritten</a> den nachvollziehbaren (und gangbaren) Weg zu Open Scholarship zusammen.
+
+<strong>Das EuroScientist Magazin wartet <a href="http://euroscientist.com/2014/05/print-edition-special-issue-on-alternative-research-funding/">in der Mai-Ausgabe</a> wieder mit einem interessanten Thema auf – der alternativen Forschungsförderung.</strong> Es werden die zwei Ebenen von Förderungsmechanismen beleuchtet, die überdacht werden müssten: Die Makroebene, wo Forschungs- und Entwicklungspolicies beeinflussen, wohin Förderungen vergeben werden, und die Mikroebene, wo Peer Review bestimmt, wie Förderungen verteilt werden.
+
+<strong>Wie funktioniert Open Peer Review, und kann es die Mängel bei der Veröffentlichung klinischer Studien beheben?</strong> <a>Mit dieser Frage</a> befasst sich Stephanie Harriman auf BioMed Central und kommt zur Antwort, dass Ärzte auf diese Weise besser fundierte Entscheidungen treffen können. Offener Peer Review helfe auch dabei, den Evaluationsprozess an sich besser zu verstehen.
+
+<strong>Arfon Smith erklärt die Ideen hinter dem "<a title="Arfon Smith Open Journal" href="http://lj.libraryjournal.com/2014/05/publishing/opening-the-books-arfon-smith-on-how-easy-peer-review-can-turn-repositories-into-journals/">Open Journal</a>".</strong> Um den Preprint-Server arxiv herum sollen die nötigen Strukturen für ein vollständiges wissenschaftliche Journal gebaut werden.
+
+<h1>Ein Blick nach Vorne</h1>
+
+<strong>Die ersten Sessions des diesjährigen <a title="OKFestival Programme" href="http://2014.okfestival.org/festival-programme/">Open Knowledge Festivals</a> sind online.</strong> Schwerpunkte dieses Jahr sind Wissen, Werkzeuge und Gesellschaft als Einflussfaktoren von Wandel.
+
+<strong>Stanford bietet einen <a href="https://class.stanford.edu/courses/Education/OpenKnowledge/Fall2014/about#">Kurs zu Open Knowledge</a> an.</strong> In diesem freien Online-Kurs gibt es Ein- und Überblicke zu geistigem Eigentum, Geschichte, Wissensmanagement und Publikationswesen, bis hin zu globalen Perspektiven von Verteilungsgerechtigkeit und Entwicklung. Der Kurs startet Anfang September und dauert 13 Wochen.
+
+<strong>Open Source in der Pharma-Industrie - kann das funktionieren und falls ja, wie?</strong> Über Anreize, Open Source Forschung und mögliche neue Mechanismen wird bei einem <a href="http://intermolecular.wordpress.com/2014/05/13/open-source-pharma-and-prizes/">Workshop</a> von 16. bis 18. Juli in Italien diskutiert.
+
+<strong>Open Science soll an allen Linzer Universitäten verankert werden.</strong> Mit dieser Vorgabe lädt der Linzer Wissenschaftsreferent Christian Forsterleitner alle Linzer Hochschulen zu einem <a title="Linzer Webgipfel" href="http://opencommons.public1.linz.at/freie-wissenschaft-einladung-zu-linzer-%E2%80%9Eweb-gipfel%E2%80%9C-im-herbst-2014">Web-Gipfel im Herbst 2014</a>.
+
+<h1>Unsere Projekte</h1>
+
+<strong>Aus aktuellem Anlass gab es einen kleinen Citizen Science Schwerpunkt im Open Science Radio.</strong> In der <a title="OSR018 Citizen Science" href="http://www.openscienceradio.de/2014/05/20/osr018-citizen-science/">18. Folge</a> zuerst mit einem Überblick auf Citizen Science. In <a title="OSR020 Bürger schaffen Wissen" href="http://www.openscienceradio.de/2014/05/20/osr020-buerger-schaffen-wissen/"> Folge 20</a> gibt es ein Interview mit Thorsten Witt, dem Projektleiter hinter der deutschen Citizen Science Plattform <a title="Bürger schaffen Wissen" href="http://buergerschaffenwissen.de/">buergerschaffenwissen.de</a>. Und in <a title="OSR019 Science Open" href="http://www.openscienceradio.de/2014/05/20/osr019-science-open/">Folge 19</a> sprach das Open Science Radio mit Alexander Grossmann, einem der Gründer hinter der frisch an den Start gegangenen Open Science Plattform <a title="ScienceOpen" href="http://www.scienceopen.com">scienceopen.com</a>.
+
+<strong>Neue Funktionen gibt es für das Visualisierungstool Head Start.</strong> Das Tool soll<strong> </strong>einen schnellen Überblick über die Literatur ermöglichen, um die initiale Recherche zu erleichtern. <a title="Head Start" href=" http://science.okfn.org/2014/04/29/whats-new-in-head-start/">Die Timeline wurde überarbeitet</a>, und es sind neue Methoden geplant, Literatur inhaltlich zu analysieren und übersichtlich darzustellen.
+
+<h1>openscienceASAP Newsletter abonnieren</h1>
+
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>

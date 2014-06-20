@@ -4,7 +4,7 @@ Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatlich
 
 <!- Quelle -->
 
-<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/05/07/open-science-sum-up-april/" title="Open Science Sum-Up MONTH">openscienceASAP.org</a> veröffentlicht.</strong>
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/06/17/open-science-sum-up-mai" title="Open Science Sum-Up Mai">openscienceASAP.org</a> veröffentlicht.</strong>
 
 <!- Newsletter Formular -->
 
@@ -14,4 +14,4 @@ Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatlich
 
 <!- Featured Image OKFN -->
 
-<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/05/NDNAD-580x580.jpg -->
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/06/ZomeBall-e1402654725445-580x343.jpg -->
