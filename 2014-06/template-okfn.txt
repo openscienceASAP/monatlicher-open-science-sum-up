@@ -1,0 +1,50 @@
+Titel: Open Science Sum-Up Juni
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/07/wordscapes-water-580x348.jpg -->
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+<h1>Das letzte Monat im Rückblick</h1>
+
+<strong>Offenheit ist kein Karrierehindernis.</strong> Erfahrungen mit dem Teilen von Wissen, kulturellen Anreizen und der alltäglichen Praxis hat das <a title="Openness Career" href="http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2014_06_10/caredit.a1400146">Sciencemag</a> gesammelt.  “My career has developed in large part because I’ve been open about everything”.
+
+<strong>Die Initiative <a title="e-infrastructures" href="http://www.e-infrastructures.at/">e-Infrastructures Austria</a> ist gestartet.</strong> Ziel ist der Ausbau und die Weiterentwicklung von Dokumentenservern in Österreich. Auch Forschungsdaten wurden ins Blickfeld genommen, und für diese sollen Infrastrukturen und Services aufgebaut werden.
+
+<strong>Das Land Berlin verabschiedet eine <a title="Berlin Open Access" href="http://wisspub.net/2014/06/18/berlin-bringt-open-access-strategie-auf-den-weg/">Open Access Strategie</a>.</strong> Damit schließt es sich anderen Bundesländern bei der Umsetzung von <a title="EU Kommission Empfehlungen" href="http://ec.europa.eu/research/science-society/document_library/pdf_06/recommendation-access-and-preservation-scientific-information_en.pdf">Empfehlungen</a> der EU-Kommission um.
+
+<strong>Open Access aus einer Investment-Perspektive?</strong> In diesem <a title="HSBC Open Access" href="https://www.research.hsbc.com/midas/Res/RDV?ao=20&amp;key=RxArFbnG1P&amp;n=360010.PDF">Bericht</a> der Investmentbank HSBC gibt es auch finanzielle Informationen zu Elsevier.
+
+<strong>Im Rahmen der School of Open wurde ein <a title="Open Research Course Launch" href="http://oerresearchhub.org/2014/03/19/open-research-oer-research-hub-course-launches-june-2014/">Open Research Course</a> erarbeitet.</strong> In dieser <a title="Open Research Course" href="http://oerresearchhub.org/2014/06/19/open-research-course-update/">Rückschau</a> wird der Weg dahin nachgezeichnet.
+
+<strong> Welche Herausforderung für reproduzierbare Forschung bleiben noch übrig?</strong> <a title="Reproducibility Challenges" href="http://ropensci.org/blog/2014/06/09/reproducibility/">ROpenSci </a>nennt dazu Integration und technische Übertragbarkeit.
+
+<strong>Mit einer Installation zur kompletten Arbeitsumgebung.</strong> Die <a title="Fedora Scientific" href=" http://opensource.com/life/14/6/linux-distribution-science-geeks">Fedora Scientific Distribution</a> hat genau das als Ziel. Auf Linux basierend, sind Open Source-Tools wie GNU Octave, IPython, gnuplot oder Libraries wie SciPy und GNU Scientific bereits mitgeliefert - genauso wie LaTex für Schreibarbeiten.
+
+<strong>Unterscheidet sich Forschung durch Think Tanks?</strong> Eine <a title="Think Tanks Research" href="http://onthinktanks.org/2014/06/25/is-research-from-think-tanks-really-different/">Umfrage</a> unter lateinamerikanischen Think Tanks ergab, dass vor allem ein Open Review System üblich ist. Es gibt dazu eine längere Serie, die sich mit <a title="Think Tanks Peer Review" href="http://wp.me/pYCOD-1wM">Peer Review für Think Tanks</a> befasst.
+
+<strong>Citizen Science liefert beständig Beiträge zu Erkenntnissen.</strong> Hier gibt es einen <a title="Citizen Science" href=" http://blogs.plos.org/citizensci/2014/06/27/coops-citizen-sci-scoop-roundup-recent-discoveries/">Auszug</a> an Publikationen, die auf Citizen Science beruhen.
+
+[caption id="attachment_2793" align="alignnone" width="580"]<a href="http://openscienceasap.org/wp-content/uploads/2014/07/wordscapes-water.jpg"><img class="size-medium wp-image-2793" alt="Wordscapes water, cc by 2.0 Marius B" src="http://openscienceasap.org/wp-content/uploads/2014/07/wordscapes-water-580x348.jpg" width="580" height="348" /></a> <a title="Water Wordscapes" href="https://www.flickr.com/photos/mariusb/5575021761">Water Wordscapes</a>, <a title="cc by 2.0" href="https://creativecommons.org/licenses/by/2.0/"> cc by 2.0</a> von <a title="Marius B" href="https://www.flickr.com/photos/mariusb/">Marius B</a>[/caption]
+
+<h1>Ein Blick nach Vorne</h1>
+
+<strong>Offene Wissenschaft wird zum Forschungsobjekt.</strong> In dem <a title="PhD Open Science" href="http://figshare.com/articles/PhD_Project_Mapping_the_Open_Science_Movement_Characteristics_and_Impact_on_the_Research_System_April_2014_/1064413">PhD-Projekt</a> "Mapping Open Science" soll die Open Science Bewegung in verschiedenen Aspekten und ihrer Evolution untersucht werden.
+
+<strong>Wie soll ein Standard für Altmetrics ausschauen?</strong> Das NISO <a title="Whitepaper Altmetrics Standards" href="http://www.niso.org/apps/group_public/document.php?document_id=13295">Whitepaper zu Altmetrics Standards</a> kann noch bis 18. Juli kommentiert werden.
+
+<strong>Warum sind offene und transparente Metriken so wichtig?</strong> <a title="Metrics" href="http://science.okfn.org/2014/05/31/all-metrics-are-wrong-but-some-are-useful/">Dahinter</a> steckt der Gedanke von "All Models are wrong, but some are useful".
+
+<strong>Ab August sind Anmeldungen zur <a title="OpenCon14" href="http://www.righttoresearch.org/act/opencon/">OpenCon14</a> möglich.</strong> Die OpenCon ist eine Konferenz zu Open Data, Open Education und Open Access für Studierende und NachwuchswissenschaftlerInnen. Sie findet von 15. bis 17. November in Washington, D.C. statt.
+
+<strong>Das Programm für die Open Access Tage in Köln steht.</strong> Diese finden am 8. und 9. September an der FH Köln statt, was genau passiert steht <a title="Open Access Tage Köln" href=" http://open-access.net/de/aktivitaeten/open_access_tage/programm/">hier</a>.
+
+<h1>openscienceASAP & OKF Österreich</h1>
+
+<strong>Peter Murray-Rust besuchte Wien.</strong> Die Aufzeichnung seines Vortags beim FWF gibt es <a title="PMR Vortrag" href="https://www.youtube.com/watch?v=6_bad49Celg">hier</a>. Im Rahmen eines <a title="PMR Workshop" href="http://www.fwf.ac.at/de/news-presse/news/nachricht/nid/20140526-2052/?tx_rsmnews_detail[ref]=l&amp;cHash=7a637cd136c020f147215f48ffee3607">Workshops</a> wurden die aktuellsten Fortschritte bei der maschinellen Erfassung von wissenschaftlichem Output ausprobiert. Der Besuch klang aus mit einem <a title="Open Content Meetup" href="http://okfn.at/2014/05/19/content-mining-meetup-with-peter-murray-rust/">Open Science Hackathon und Meetup zu Open Content</a>.
+
+<h1>openscienceASAP Newsletter abonnieren</h1>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/05/07/open-science-sum-up-juni/" title="Open Science Sum-Up Juni">openscienceASAP.org</a> veröffentlicht.</strong>
