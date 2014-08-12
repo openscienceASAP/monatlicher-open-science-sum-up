@@ -1,0 +1,40 @@
+Titel: Open Science Sum-Up Juli
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/08/peerreview.jpg -->
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+<h1>Das letzte Monat im Rückblick</h1>
+
+<strong>Die Rolle von Open Access in der Wissensgesellschaft.</strong> In einem <a title="John Willinsky Interview" href="http://www.editage.com/insights/beyond-open-access-sharing-research-derived-knowledge-with-society">Videointerview</a> diskutiert John Willinsky die transformativen Möglichkeiten von Open Access.
+
+<strong>Ist das schon Big Data?</strong> Auf Figshare wurde ein Datensatz von knapp 50GB geteilt. In diesem Fall handelt es sich um <a title="Figshare 50GB" href="http://peccoud.vbi.vt.edu/uploaded-large-set-of-raw-data-on-figshare/">Bildmaterial</a> aus dem Zellbiologie-Bereich.
+
+<strong>Extra Lizenzen für nicht-menschliche Leser.</strong> Die International Association of Scientific, Technical &amp; Medical Publishers stm hat ein <a title="stm Open Access Lizenzen" href="http://www.stm-assoc.org/open-access-licensing/">Lizenzmodell vorgestellt</a>, welches explizite Erweiterungen für Text- und Data Mining enthält.
+
+<strong>Die Qual der Wahl: Welcher Pre-Print Server?</strong> Wer vor der Frage steht, auf welchen Pre-Print Server der neue Artikel hochgeladen werden soll, findet vielleicht einen <a title="Welcher Preprint Server" href="http://jabberwocky.weecology.org/2014/07/07/which-preprint-server-should-i-use/">Erfahrungsbericht</a> zu arXiv, bioRxiv, PeerJ, and figshare hilfreich.
+
+<strong>Open Access führt zu mehr Zitationen.</strong> In einer Studie zum Hybrid-Journal <em>Nature Communications</em> wurden Open Access-Artikel doppelt so oft gelesen, und erhielten im Median <a title="RIN study" href="http://www.nature.com/press_releases/ncomms-report.html">4 Zitationen mehr</a> (11 statt 7). Den <a title="RIN dataset" href="http://figshare.com/authors/Nature_Communications/598818">Datensatz</a> zur Studie gibt es auf Figshare.
+
+[caption id="attachment_2812" align="alignnone" width="510"]<a href="http://openscienceasap.org/wp-content/uploads/2014/08/peerreview.jpg"><img class="size-full wp-image-2812" alt="Peer Review, cc by-sa 2.0, flickr AJ Cann" src="http://openscienceasap.org/wp-content/uploads/2014/08/peerreview.jpg" width="510" height="368" /></a> <a title="Peer Review" href="https://www.flickr.com/photos/ajc1/6735929719">Peer Review</a>, <a title="cc by-sa 2.0" href="https://creativecommons.org/licenses/by-sa/2.0/">cc by-sa 2.0</a> <a title="AJ Cann" href="https://www.flickr.com/photos/ajc1/">AJ Cann</a>[/caption]
+
+<strong>Die Grenzen von Peer Review.</strong> Nature hat <a title="Guardian End Peer Review" href="http://www.theguardian.com/commentisfree/2014/jul/06/guardian-view-end-peer-review-scientific-journals">zwei Artikel zurückgezogen</a>, nachdem sich diese als fehlerhaft und nicht reproduzierbar erwiesen haben. Dies ist aber kein Einzelfall, und möglicherweise Symptom eines <a title="Guardian Retractions" href="http://www.theguardian.com/science/blog/2014/jul/14/retractions-journal-publishers-scientific-papers-peer-review">schlecht laufenden Review-Systems</a>.
+
+<strong>Ab jetzt wird genau nachgerechnet: Statistiken werden gesondert reviewed.</strong> Diesen Schritt hat u.a. auch <a title="Science Statistics Review" href="http://www.nature.com/news/science-joins-push-to-screen-statistics-in-papers-1.15509?WT.ec_id=NEWS-20140708">Science</a> gemacht. So soll die Reproduzierbarkeit und Verlässlichkeit von Ergebnissen besser gewährleistet werden.
+
+<strong>Peer Review neu denken - und umsetzen.</strong> Mit dieser Frage haben sich TeilnehmerInnen eines Sense About Science-Workshops in London auseinandergesetzt, und hat dazu viele <a title="Peer Review Alternatives" href="http://blogs.biomedcentral.com/bmcblog/2014/04/28/are-there-alternatives-to-peer-review/">Ansätze diskutiert</a>.
+
+<strong>Von 15.-17. Juli fand das Open Knowledge Festival 2014 in Berlin statt (#OKFest14).</strong> Die Keynotes hielten unter anderem Neelie Kroes (EU-Kommission) und Patrick Alley (Global Witness) - Link zum Stream <a title="OK14 Stream" href="http://2014.okfestival.org/">hier</a>. Im Programm fanden sich auch einige Open Science Sessions, zu denen es eine <a title="OK14 Open Science Round Up" href="http://science.okfn.org/okfest14-open-science-round-up">Zusammenfassung</a> gibt. Das Open Knowledge Festival war gleichzeitig auch Bühne für das erste Treffen der neugegründeten Open Science Gruppe für Deutschland, Österreich und die Schweiz.
+
+<strong>Mozilla Science Labs hat in 22 Städten weltweit Sprints veranstaltet.</strong> Was dabei Tolles herauskam ist hier <a title="Mozilla Sprints" href="http://mozillascience.org/the-mozsprint-heard-round-the-world/">nachzulesen</a> - dazu gehören Lehr- und Lernmaterialien rund um Daten, Werkzeuge für den Unterricht, und Werkzeuge rund um Wissenschaft.
+
+<h1>Ein Blick nach Vorne</h1>
+
+<strong>Vom 3. Juli bis 30. September laufen die Konsultationen der EU-Kommission zum Thema Science 2.0.</strong> Es ist möglich, als Einzelperson, Organisation oder öffentliche Institution <a title="Science 2.0 Konsultationen" href="http://ec.europa.eu/research/consultations/science-2.0/consultation_en.htm">Beiträge einzureichen</a>. Die Kommission will herausfinden, wie hoch das Verständnis für den stattfindenden Wandel ist, welche Chancen und Herausforderungen wahrgenommen werden und was die Implikationen für Policy-Macher sind.
+
+<h1>openscienceASAP Newsletter abonnieren</h1>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/08/05/open-science-sum-up-juli/" title="Open Science Sum-Up Juli">openscienceASAP.org</a> veröffentlicht.</strong>
