@@ -1,0 +1,52 @@
+Titel: Open Science Sum-Up August
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/09/MSWissenschaft-580x321.jpg -->
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+<h1>Der letzte Monat im Rückblick</h1>
+<strong>Die neuen Lizenzen der Association for Scientific, Technical and Medical Publishers (STM) sind nicht Creative Commons kompatibel.</strong> <a title="STM Licences" href="http://www.plos.org/global-coalition-of-access-to-research-science-and-education-organizations-calls-on-stm-to-withdraw-new-model-licenses/">Darüber hinaus schränken</a> sie die Nutzung, Weiterverwendung und Interoperabilität von Wissen ein - wie es besser ginge zeigt <a title="Creative Commons Guide" href="https://www.mysciencework.com/news/11561/a-creative-commons-guide-to-sharing-your-science">Creative Commons</a>. STM begründet die Einführung eigener Lizenzen als <a title="stm Open Access Lizenzen" href="http://www.stm-assoc.org/open-access-licensing/">Reaktion auf Text und Datenmining</a>. Ausnahmen für Text- und Datenmining gibt es bis jetzt <a title="Right to Mine" href="http://blogs.lse.ac.uk/impactofsocialsciences/2014/06/04/the-right-to-read-is-the-right-to-mine-tdm/">nur im UK</a>.
+
+<strong>Welchen Mehrwert erzeugen Verlage und Journals?</strong> Ein Vergleich von Open und Closed Access zeigt, dass der Preis nicht das alleinige Unterscheidungsmerkmal ist. Es geht auch darum, wie Qualitätssicherung und Verbreitung <a title="True Cost Science Publishing" href="http://www.nature.com/news/open-access-the-true-cost-of-science-publishing-1.12676">organisiert werden</a>. Wo die Open Access Journale herkommen, kann auf der <a title="Open Access Heatmap" href="http://www.scinoptica.com/pages/topics/open-access-heatmap.php">Heatmap</a> von Ulrich Herb recht schön gesehen werden.
+
+<strong>In der Wissenschaft hat jede*r das sagen - ein bisschen.</strong> Der Guardian beschreibt, was dieses <a title="Guardian Who Governs Science" href="http://www.theguardian.com/science/occams-corner/2014/aug/15/who-governs-science">selbstregulierende System</a> für Qualitätsstandards und Review-Prozesse bedeutet.
+
+<strong>Linguistik hat schon eine Anwendung für Post-Publication-Review.</strong> In den Texten des Sozialpsychologen Diederik Stapel ließen sich die Spuren des wissenschaftlichen Betruges auch <a title="Science Fraud" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0105937">in der Sprache nachweisen</a>. Es gibt z.B. Unterschiede bei der Beschreibung von realen und eingebildeten Erfahrungen, oder den Intentionen von Texten.
+
+<strong>Open Science Praktiken zu Hause am PC lernen</strong>, das versprechen einige neue MOOCs. Besonders für Statistiker*innen / Data Scientists ist einiges dabei: Einführung in Computing mit Python auf der <a title="Fundamentals Computing Rice University" href="https://www.coursera.org/specialization/fundamentalscomputing/9?utm_medium=listingPage">Rice University</a> und am <a title="Introduction Computer Science MIT" href="https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-2841#.VA852v5k8qU">MIT</a> sowie ein <a title="R Computing Kurs" href="https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage">umfangreiches Kursprogramm zu R</a> auf der Johns Hopkins University. Grundlegendes kann beim <a title="Open Knowledge Kurs" href="http://online.stanford.edu/course/open-knowledge-changing-global-course-learning?utm_source=Stanford%20Online&amp;utm_medium=Email&amp;utm_term=Mailer%20August%202014&amp;utm_content=Announcement&amp;utm_campaign=New%20Online%20Learning%20Opportunities">Open Knowledge Kurs</a> auf Stanford oder dem <a title="Linux Kurs" href="https://courses.edx.org/courses/LinuxFoundationX/LFS101x/2T2014/info">Linux Kurs</a> erlernt werden.
+
+<strong>Ein weiteres Beispiel von Technologietransfer.</strong> Während Peer-Review in der Academia unter Druck gerät, wird dieser Prozess für <a title="TechCrunch Peer Review" href="http://techcrunch.com/2014/08/27/why-more-companies-should-submit-to-peer-review/">Unternehmen entdeckt</a>.
+
+<strong>Was bedeutet die Digitalisierung für die Geisteswissenschaften?</strong> Beginnend mit einer neuen Digitalen Aufklärung enden die (teils provokant gemeinten) <a title="Digitale Geisteswissenschaften" href="http://liu.english.ucsb.edu/theses-on-the-epistemology-of-the-digital-page/">Thesen</a> mit Handlungs- und Zielvorschlägen.
+
+<strong>Die deutsche Bundesregierung hat sich zu Open Access bekannt</strong> und ist daran, eine nationale <a title="Open Access Strategie Deutschland" href="http://www.hightech-strategie.de/de/Open-Access-Strategie-entwickeln-126.php">Open Access Strategie zu entwickeln</a>.
+
+<strong>Google bastelt an einer Science-Plattform.</strong> Das ist zwar ein Gerücht, aber dennoch ein <a title="Google Science" href="http://www.wired.co.uk/news/archive/2014-08/13/google-science-would-we-need-it">interessantes Gedankenspiel</a>, in dem kollaboratives Forschen und Veröffentlichen mit Aspekten eines sozialen Netzwerks kombiniert werden sollen.
+
+<strong>Der Call for Papers für die CeDEM15 hat begonnen.</strong> Auf der der <a title="CeDEM 2015 CfP" href="http://www.donau-uni.ac.at/en/department/gpa/telematik/edemocracy-conference/edem/vid/20773/index.php?URL=/en/department/gpa/telematik/edemocracy-conference/20773">International Conference for E-Democracy and Open Government</a> in Krems geht es auch 2015 wieder stark um Open Science und Open Data.
+
+[caption id="attachment_2827" align="alignnone" width="580"]<a href="https://www.flickr.com/photos/simsullen/14297613384"><img class="size-medium wp-image-2827 " alt="Ausschnitt aus MS Wissenschaft, cc by-nc-sa 2.0 Simon Bierwald" src="http://openscienceasap.org/wp-content/uploads/2014/09/MSWissenschaft-580x321.jpg" width="580" height="321" /></a> <a title="MS Wissenschaft" href="https://www.flickr.com/photos/simsullen/14297613384">MS Wissenschaft</a>, <a title="&quot;cc" href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc by-nc-sa 2.0</a> von <a title="Simon Bierwald" href="https://www.flickr.com/photos/simsullen/">Simon Bierwald</a> (Ausschnitt)[/caption]
+
+<h1>Ein Blick nach Vorne</h1>
+
+<strong>Wir sitzen alle in einem Boot - diesmal buchstäblich.</strong> Am 15. September wird an Bord der MS Wissenschaft in Wien über <a title="MS Wissenschaft" href="http://okfn.at/2014/08/28/ms-wissenschaft-dialog-an-deck-wissenschaft-und-freies-wissen-fortschrittsmotor-und-gemeingut-der-informationsgesellschaft/">Freies Wissen als Fortschrittsmotor und Gemeingut der Informationsgesellschaft</a> diskutiert.
+
+<strong>In Österreich lädt die OKFN gleich an zwei Wochenenden zu neuen Formaten ein.</strong> Zusammen mit dem KDZ findet vom 1. - 3. Oktober die <a title="Semantic Media Wiki Con" href="h<strong>Wir sitzen alle in einem Boot - diesmal buchstäblich.</strong> Am 15. September wird an Bord der MS Wissenschaft in Wien über <a title="MS Wissenschaft" href="http://okfn.at/2014/08/28/ms-wissenschaft-dialog-an-deck-wissenschaft-und-freies-wissen-fortschrittsmotor-und-gemeingut-der-informationsgesellschaft/">Freies Wissen als Fortschrittsmotor und Gemeingut der Informationsgesellschaft</a> diskutiert.
+
+<strong>In Österreich lädt die OKFN gleich an zwei Wochenenden zu neuen Formaten ein.</strong> Zusammen mit dem KDZ findet vom 1. - 3. Oktober die <a title="Semantic Media Wiki Con" href="http://okfn.at/2014/09/09/smwcon/">Semantic Media Wiki Conference</a> und von 11. - 13. Oktober lädt die OKFN zum <a title="Young Coders Festival" href="http://okfn.at/2014/07/10/young-coders-festivala123/">Young Coders Festival</a> ein, einem Wochenende für Kids rund um Programmieren und Open Data.
+
+<strong>Die <a href="http://osd.mpdl.mpg.de/">Open Science Days 2014</a> werden im Oktober in Berlin stattfinden.</strong> Diskutiert wird die ganze Breite der Ideen, von Open Access über Open Research Data und Linked Open Data, bis hin zu Open Review und Citizen Science.
+
+<strong>Auf der <a href="http://i-know.at/">i-KNOW 2014</a> findet am 18. September wieder ein Track zu Science 2.0 und Open Science statt.</strong> Neben Vorträgen und Demos wird es auch die Möglichkeit geben, mit einem international besetzten Panel über die Themen Altmetrics und Qualitätssicherung in der Wissenschaft zu diskutieren.ttp://okfn.at/2014/09/09/smwcon/">Semantic Media Wiki Conference</a> und von 11. - 13. Oktober lädt die OKFN zum <a title="Young Coders Festival" href="http://okfn.at/2014/07/10/young-coders-festivala123/">Young Coders Festival</a> ein, einem Wochenende für Kids rund um Programmieren und Open Data.
+
+<strong>Die <a href="http://osd.mpdl.mpg.de/">Open Science Days 2014</a> werden im Oktober in Berlin stattfinden.</strong> Diskutiert wird die ganze Breite der Ideen, von Open Access über Open Research Data und Linked Open Data, bis hin zu Open Review und Citizen Science.
+
+<strong>Auf der <a href="http://i-know.at/">i-KNOW 2014</a> findet am 18. September wieder ein Track zu Science 2.0 und Open Science statt.</strong> Neben Vorträgen und Demos wird es auch die Möglichkeit geben, mit einem international besetzten Panel über die Themen Altmetrics und Qualitätssicherung in der Wissenschaft zu diskutieren.
+
+<h1>openscienceASAP Newsletter abonnieren</h1>
+
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+
+SNIPPET SOURCE
