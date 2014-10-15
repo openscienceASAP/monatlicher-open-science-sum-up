@@ -49,4 +49,4 @@ Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatlich
 <div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
 </form></div>
 
-SNIPPET SOURCE
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/09/MSWissenschaft-580x321.jpg -->
