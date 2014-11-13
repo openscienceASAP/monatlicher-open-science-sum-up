@@ -1,0 +1,49 @@
+Titel: Open Science Sum-Up Oktober
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+<h1>Das letzte Monat im Rückblick</h1>
+<strong>Ist Open Access gescheitert?</strong> Als Antwort auf die Bernstein-Analyse wirft Matthew Cockerill einen differenzierten Blick auf <a title="Open Access Success Failuer" href="http://blog.oup.com/2014/10/open-access-success-failure/">Erfolge und Niederlagen</a> der Open Access-Bewegung.
+<p style="text-align: left;"><strong> In einem Interview spricht Bo-Christer Björk über seine Forschung zu Open Access</strong> und gibt uns seine <a title="Open Access Debatte" href="http://openscience.com/open-access-advocates-like-mensheviks-bolsheviks/">Einschätzung zur Open Access Debatte</a> in der Wissenschaft sowie dem grünen und goldenen Weg.</p>
+<strong>Von Ja-Nein zu einer nuancierteren Bewertung von Open Access</strong>. In ihrem "<a title="How Open Is It" href="http://www.plos.org/open-access/howopenisit/">How Open Is It</a>"-Guide schlüsseln PLOS, SPARC und OASPA Open Access für LeserInnen, WeiternutzerInnen, AutorInnen und automatisierte Verarbeitung auf.
+
+<strong>Die richtigen Fragen stellen!</strong> Es geht um langfristige Grundlagenforschung, Zusammenhänge von Bildung und Wissenschaft, Abhängigkeiten von privatem Investment und öffentlichen Forschungsgeldern: In einem <a title="Ignorance" href="http://www.theguardian.com/science/occams-corner/2014/oct/09/they-have-chosen-ignorance-open-letter">offenen Brief</a> werfen europäische WissenschaftlerInnen Policy-MacherInnen vor, die Tuchfühlung mit der Realität von Forschung und Wissenschaft verloren zu haben.
+
+<strong>Intransparenz und Non-Disclosure-Agreements in Schweizer Hochschul-Bibliotheken.</strong> Von 16 angefragten Bibliotheken war nur <a title="Schweizer Bibliotheken" href="http://wisspub.net/2014/10/13/intransparenz-bei-den-bibliotheksausgaben-von-schweizer-hochschulen/">eine bereit</a>, ihre Zahlungsströme an Elsevier, Springer und Wiley offenzulegen.
+
+<strong>Sichtbarkeit schafft Anreize.</strong> Amye Kenall beschreibt die Idee von <a title="Badges in Science" href="http://blogs.biomedcentral.com/bmcblog/2014/10/07/why-we-need-badges-in-science/">Digitalen Zertifikaten</a> für WissenschaftlerInnen. Bestückt mit Metadaten, Standards, Tags und Aussteller-Bestätigung sollen sie in Social Media und CVs für mehr Anerkennung von Open Science-Aktivitäten beitragen.
+
+<strong>Qualitätssicherung spielt eine sehr wichtige Rolle, das bestehende Konzept von Peer Review wird dieser Funktion allerdings nicht mehr gerecht.</strong> An welchen <a title="Peer Review" href="http://ottawacitizen.com/technology/science/science-and-the-death-of-peer-review">Stellen es bröckelt</a>, wird im Ottawa Citizen zusammengefasst. Im Fokus stehen dabei vor allem der Faktor Mensch und subjektive Einflüsse im Review-Prozess.
+
+<strong>Mögliche Verbesserungen von Peer Review, die allen Seiten entgegenkommen,</strong> werden in <a title="PeerJ Peer Review" href="http://blog.peerj.com/post/100580518238/whos-afraid-of-open-peer-review">PeerJ</a> beschrieben. Vorgeschlagen wird ein Kompromiss aus Namensnennung der Reviewer, und Veröffentlichung der Review-Chronik zusammen mit der finalen Publikation.
+
+<strong>Wer noch nie ein Paper reviewen durfte:</strong> Hier sind ein paar <a title="10 Tips Peer Review" href="http://www.theguardian.com/higher-education-network/blog/2013/sep/27/peer-review-10-tips-research-paper">Gedanken</a>, die sich Reviewer machen müssen.
+
+<strong>Nicht nur Texte, sondern auch Code reviewen lassen.</strong> David Soergel plädiert für offen reproduzierbare Wissenschaft, denn <a href="http://davidsoergel.com/posts/rampant-software-errors-undermine-scientific-results">schlechte Software</a> könnte wissenschaftliche Ergebnisse maßgeblich beeinflussen.
+
+<strong>Es gibt eine neue Version der Open Definition.</strong> Sie <a title="Open Definition" href=" http://opendefinition.org/od/">beschreibt genau</a>, welche Anforderungen an Werke und Lizenzen gestellt werden, um als offen zu gelten.
+
+<strong>Science - Open by default.</strong> Das Mission Statement der deutschsprachigen Open Science AG wurde veröffentlicht. <a title="Deutsches Mission Statement Open Science" href="http://okfn.de/open-science/">Ziele und Aktionsbereiche</a> werden definiert, und zum weiteren Mitgestalten aufgerufen.
+
+<strong>Es gibt kein Patentrezept für alle Disziplinen.</strong> Warum bei der Einführung von Open Science der disziplinenspezifische Kontext besonders wichtig ist, hat Peter Kraker <a href="http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/29/open-science-disciplinary-culture-clash/">in einem Post auf dem LSE Impact Blog</a> zusammengefasst.
+
+<strong>Lust auf Artkel-Metriken?</strong> Der PLoS ALM Reports Tool is nun <a href="https://github.com/articlemetrics/alm-report">open source</a>.
+
+<strong>Science and the Web. </strong>Open Science war ein wichtiger Themenbereich auf dem <a href="http://mozillascience.org/mozfest-2014/">diesjährigen MozFest der Mozilla Foundation</a>.
+
+<strong>"Generation Open".</strong> Auch der <a href="http://live.worldbank.org/open-access-week-2014">Kick-Off Event der Open Access Woche an der Weltbank</a> widmete sich der Offenheit insgesamt.
+
+[caption id="attachment_2908" align="alignnone" width="580"]<a href="https://www.flickr.com/photos/blprnt/3694704325"><img class="size-medium wp-image-2908 " alt="Flu Genome Data Visualizer, cc by 2.0 Jer Thorp" src="http://openscienceasap.org/wp-content/uploads/2014/11/flu-genome-data-visualizer-580x326.png" width="580" height="326" /></a> <a title="Flu Genome Data Visualizer" href="https://www.flickr.com/photos/blprnt/3694704325">Flu Genome Data Visualizer</a>, <a title="cc by 2.0" href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a> <a title="Jer Thorp" href="https://www.flickr.com/photos/blprnt/">Jer Thorp</a>[/caption]
+
+<h1>Ein Blick nach Vorne</h1>
+
+<strong>Chinas Anteil steigt auch in der Wissenschaft.</strong> Welche Veränderungen durch die <a title="China Competitive Funding" href="http://blogs.nature.com/news/2014/10/fundamental-overhaul-of-chinas-competitive-funding.html">Neuorganisation der chinesischen Förderstruktur</a> ausgelöst werden, ist noch nicht absehbar.
+
+<h1>Unsere Projekte</h1>
+
+Die Videos des Open Science Panel Wien sind zum Nachschauen auf Youtube veröffentlicht. <a href="https://www.youtube.com/channel/UCgkFUtcsEn46jLn5Yz-Ofig">Unbedingt reinklicken!</a>
+<h1>openscienceASAP Newsletter abonnieren</h1>
+
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
