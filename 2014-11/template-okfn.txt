@@ -1,0 +1,56 @@
+Titel: Open Science Sum-Up November
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2014/12/MapoftheMoon-298x240.jpg -->
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+<h1>Der letzte Monat im Rückblick</h1>
+
+<strong>Die Deutsche Forschungsgemeinschaft (DFG) empfiehlt offene Lizenzen.</strong> In ihrem <a title="DFG Creative Commons" href="http://www.dfg.de/foerderung/info_wissenschaft/info_wissenschaft_14_68/index.html">Appell </a>werden Creative-Commons-Lizenzen als rechtssichere, anpassbare und standardisierte Mittel angesehen, um Textpublikationen, Daten und Software umfassend nutzbar zu machen.
+
+<strong>Das CERN beschleunigt nicht nur Teilchen, sondern auch Open Science.</strong> Das neue <a title="CERN Open Data" href="http://opendata.cern.ch/about">Open Data Portal</a> bietet sowohl Datensätze für Übungszwecke, als auch Daten inklusive Software für eigene Forschungen.
+
+<strong>Bereits jedeR zweite ForscherIn macht Forschungsdaten öffentlich zugänglich.</strong> Anreize zum Teilen von Daten sind zum einen bessere Sichtbarkeit und höherer Impact, aber auch gestiegene Anforderungen von Journals. Die geringe Nutzung von Datenrepositorien (6-26%) schränkt allerdings die Auffindbarkeit ein. Die von Wiley unter 90.000 ForscherInnen durchgeführte <a title="Wiley Data Sharing" href="http://exchanges.wiley.com/blog/2014/11/03/how-and-why-researchers-share-data-and-why-they-dont/">Umfrage</a> schlüsselt auch nach Disziplinen und Ländern auf.
+
+<strong>Wieviel kostet die Umsetzung von Open Access?</strong> Für das UK gibt es nun <a title="UK Costs of Open Access" href="http://www.researchconsulting.co.uk/new-report-highlights-9m-compliance-cost-of-uk-open-access-requirements/">konkrete Zahlen</a>. Die Umsetzungskosten von Open Access betragen hier 11,7 mio € und zusätzlich 14 mio € für Publikationsgebühren. Ein von London Higher und SPARC Europe beauftragter <a title="UK Costs of Open Access" href="http://www.researchconsulting.co.uk/wp-content/uploads/2014/11/Research-Consulting-Counting-the-Costs-of-OA-Final.pdf">Bericht</a> beziffert auch den zeitlichen Mehraufwand: zwischen 45 Minuten (Grüner Weg) und 2 Stunden (Goldener Weg).
+
+<strong>1.732.556 € für 1.432 Open Access-Artikel.</strong> Das ist die Summe, die von 7 Institutionen für <a title="OA Publikationsgebühren Deutschland" href="http://wisspub.net/2014/11/07/offenlegung-von-open-access-publikationsgebuhren-in-deutschland/">Publikationsgebühren in Deutschland</a> aufgewendet wurde. Der <a title="OA Publikationsgebühren" href="https://github.com/njahn82/unibiAPC">Datensatz</a> selbst ist auf github zu finden, und wird hoffentlich noch wachsen.
+
+<strong>Die Niederlande kündigen Elsevier...</strong> Da der Vorschlag von Elsevier nicht den Open Access-Anforderungen der niederländischen Universitäten entspricht, sind die Verhandlungen <a title="Niederlande Elsevier" href="http://www.vsnu.nl/news/newsitem/11-negotiations-between-elsevier-and-universities-failed.html">vorerst auf Eis</a> gelegt.
+<strong>... und behalten Springer.</strong> Eine <a title="Springer Niederlande" href="http://www.vsnu.nl/news/newsitem/12-springer-and-universities-take-key-step-towards-open-access.html">Einigung</a> ergab sich, weil Springer das Ziel von 60% Open Access bis 2019 und 100% Open Access bis 2025 mittragen will.
+
+<strong>Peer Review und alternative Metriken müssen sich sinnvoll ergänzen.</strong> Peer Review messe Konformität zu disziplinären Erwartungen und Bibliometriken messen wie sichtbar ein Werk am Horizont anderer WissenschaftlerInnen auftaucht, argumentiert <a title="Peer Review Metrics" href="http://blogs.lse.ac.uk/impactofsocialsciences/2014/11/19/peer-review-metrics-ref-rank-hypocrisies-sayer/">Derek Sayer</a>. Bei der Forschungsevaluation solle der Fokus besser auf Eigenschaften der Forschungsumgebung gerichtet werden: Bibliotheks- und Laborressourcen, Forschungseinkommen, Redakteurstätigkeiten, Beteiligung an Konferenzen, Anzahl an PhD-StudentInnen oder Seminar- und Vortragstätigkeiten.
+
+<strong>Wenigstens sind die Wege kurz.</strong> Ein weiterer <a title="Self Peer Review" href="http://retractionwatch.com/2014/11/10/it-happened-again-journal-cannot-rule-out-possibility-author-did-his-own-peer-review/">möglicher Fall</a> von Selbst-Review innerhalb von Thomson Reuters ScholarOne zeigt die Probleme der aktuellen Peer Review-Verfahren auf. Eine <a title="Self Peer Review Category" href="http://retractionwatch.com/category/by-reason-for-retraction/self-peer-review/">Reihe von Einzelfällen</a> deutet auf ein systematisches Problem hin.
+
+[caption id="attachment_3098" align="alignnone" width="580"]<a href="https://www.flickr.com/photos/uclmaps/9651216635"><img class="size-medium wp-image-3098" src="http://openscienceasap.org/wp-content/uploads/2014/12/MapoftheMoon-580x580.jpg" alt="Map of the Moon, cc by 2.0 scan by UCL Mathematical and Physical Sciences, original work is public domain" width="580" height="580" /></a> <a title="Map of the Moon" href="https://www.flickr.com/photos/uclmaps/9651216635">Map of the Moon</a>, scan is <a title="cc by 2.0" href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a> by <a title="UCL Maps" href="https://www.flickr.com/photos/uclmaps/">UCL Mathematical and Physical Sciences</a>, original work is public domain by Walter Goodacre (1910)[/caption]
+
+<strong>Die Ludwig Boltzmann Gesellschaft startet eine Crowdsourcing-Plattform für Forschungsfragen.</strong> Im Rahmen des <a title="LBG Crowdsourcing" href="http://science.apa.at/dossier/Boltzmann_Gesellschaft_startet_Initiative_zur_Buergerbeteiligung/SCI_20141127_SCI60332977021377388">Projekts</a> sollen Forschungsfragen zu psychischen Erkrankungen formuliert werden. 2016 folgt ein Ausbildungsprogramm, das Forschern "Open-Innovation"-Methoden nahebringt.
+
+<strong>Bürgerwissenschaften erleben einen zweiten Frühling.</strong> Citizen Science muss nicht immer große Mengen an kleinen Beiträgen bedeuten, es kann auch mit kleinen Mengen an stark involvierten Beiträgen funktionieren. Benedikt Fechter beschreibt das <a title="Citizen Science Potenzial" href="http://www.hiig.de/en/the-great-potential-of-citizen-science/">Potential von Citizen Science</a>, und warum man in den freiwilligen BürgerInnen mehr als nur "Helferbienen" sehen sollte. In einem Wissenschaftsdossier der APA mit <a title="APA Citizen Science" href="http://science.apa.at/dossier/Die_Weisheit_der_Masse/SCI_20141127_SCI60332977021323210">Schwerpunkt zu Citizen Science</a> wird die begriffliche Vielfalt zusammengefasst.
+
+<strong>Bei der Umsetzung von Open Science spielt der disziplinäre Kontext eine wichtige Rolle.</strong> Daher ist es wichtig, die einzelnen <a title="Peter Kraker Disziplinclash" href="http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/29/open-science-disciplinary-culture-clash/">Communities in den Diskurs</a> mit einzubeziehen, argumentiert Peter Kraker auf dem LSE Impact Blog.
+
+<strong>Wie schaut dieser Kontext in den Geisteswissenschaften aus?</strong> Martin Paul Eve gibt mit seinem Buch <a href="http://dx.doi.org/10.1017/CBO9781316161012">Open Access and the Humanities</a> einen vielseitigen Einblick in die entscheidenden Faktoren wissenschaftlicher Kommunikation in den Geisteswissenschaften und beschreibt Open Access Ansätze, die diese besser berücksichtigen.
+
+<strong>Und wir bewegen uns doch.</strong> Die erste OpenCon (<a title="Open Con Zusammenfassung" href="http://blogs.scientificamerican.com/absolutely-maybe/2014/11/16/generation-open-sneak-peek-into-sciences-future-at-opencon-2014/">Zusammenfassung</a>) fand vom 15.-17. November in Washington, DC, statt. Die meisten Vorträge und Workshops sind <a title="OpenCon Videos" href="https://www.youtube.com/playlist?list=PLKzRudZaXUD0SA6IMycQD9UOIE-kYOPfm">nachträglich abrufbar</a>, sowie eine Reihe interessanter <a href="http://okcast.org/page/1/?s=opencon2014">Podcasts</a>. Weitere Ressourcen werden auf der <a href="http://opencon2014.org/resources">Konferenzwebsite</a> zur Verfügung gestellt.
+
+<strong>Die Europäische Kommission sichtet die Ergebnisse der Befragung zu Science 2.0.</strong> In <a href="http://scienceintransition.eu/validation-workshops/">vier Workshops</a> haben VertreterInnen der Kommission mit verschiedenen Stakeholdern über wichtige Kernthemen dieses Wandels diskutiert. Der Validierungsprozess kann auf <a href="http://scienceintransition.eu/">scienceintransition.eu</a> verfolgt werden.
+
+<strong>Die zweite Runde der Panton Fellowships endet.</strong> Zeit, um die Experimente und Erkundungen der drei Fellows in den Bereichen Open Data und Open Science <a title="Panton Fellows Review" href="http://science.okfn.org/2014/11/20/congratulations-to-the-panton-fellows-2013-2014/">Revue</a> passieren zu lassen.
+
+<h1>Ein Blick nach Vorne</h1>
+
+<strong>Eine Open Science Erhebung soll internationale Vergleichbarkeit herstellen.</strong> Die <a title="Open Science Census" href="http://wiki.okfn.org/Open_Science/Projects/Census">Initiative von Open Knowledge</a> beginnt gerade mit der Ausarbeitung von Fragen.
+
+<h1>openscienceASAP & OKF Österreich</h1>
+
+<strong>Wie lassen sich Zugänge zu Open Science vereinfachen?</strong> Das Projekt Open Science @ Uni Graz sucht Vorschläge und Input zum <a title="OS Diversität" href="http://openscienceasap.org/stream/2014/11/18/schwerpunkt-diversitaet/">Thema Diversität</a>.
+
+<h1>openscienceASAP Newsletter abonnieren</h1>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/12/10/open-science-sum-up-november/" title="Open Science Sum-Up November">openscienceASAP.org</a> veröffentlicht.</strong>
+
