@@ -3,11 +3,13 @@ Monatlicher Open Science Sum-Up
 
 Eine monatliche Zusammenfassung was sich letztes Monat zu Open Science getan hat sowie eine Aussicht auf das nächste Monat: Weltweit, in Österreich, in Deutschland und auf openscienceASAP.org.
 
-Die Texte stehen alle unter der [Creative Commons Namensnennung 3.0 Unported Lizenz](http://creativecommons.org/licenses/by/3.0/deed.de).
+Die Texte stehen alle unter der [Creative Commons Namensnennung 4.0 International Lizenz](http://creativecommons.org/licenses/by/4.0/).
 
-Mehr erfährt man unter [Monatlicher Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) und der Newsletter dazu kann hier [abonniert](http://openscienceasap.org/newsletter/) werden.
+Mehr erfährt man unter [Monatlicher Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) wo auch der **[Newsletter abonniert](http://openscienceasap.org/newsletter/)** werden kann.
 
 ## Sum-Up's
+- [November 2014](http://openscienceasap.org/stream/2014/12/10/open-science-sum-up-november/)
+- [Oktober 2014](http://openscienceasap.org/stream/2014/11/11/open-science-sum-up-oktober/)
 - [September 2014](http://openscienceasap.org/stream/2014/10/08/open-science-sum-up-september/)
 - [August 2014](http://openscienceasap.org/stream/2014/09/10/open-science-sum-up-august/)
 - [July 2014](http://openscienceasap.org/stream/2014/08/05/open-science-sum-up-juli/)
