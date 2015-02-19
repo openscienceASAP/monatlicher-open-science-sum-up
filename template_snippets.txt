@@ -4,7 +4,7 @@ Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatlich
 
 <!- Quelle -->
 
-<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/05/07/open-science-sum-up-april/" title="Open Science Sum-Up MONTH">openscienceASAP.org</a> veröffentlicht.</strong>
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2014/05/07/open-science-sum-up-april/" title="Open Science Sum-Up MONTH YEAR">openscienceASAP.org</a> veröffentlicht.</strong>
 
 <!- Newsletter Formular -->
 

@@ -10,6 +10,9 @@ IMAGE
 
 <h1>Unsere Projekte</h1>
 
-<h1>openscienceASAP Newsletter abonnieren</h1>
+<h1>openscienceASAP Newsletter</h1>
 
+SNIPPET BESCHREIBUNG
+
+<strong>Abonnieren</strong>
 SNIPPET NEWSLETTER

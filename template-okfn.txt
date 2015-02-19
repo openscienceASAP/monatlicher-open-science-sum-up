@@ -2,17 +2,20 @@ Titel: Open Science Sum-Up MONTH
 
 SNIPPET FEATURED-IMAGE
 
-SNIPPET BESCHREIBUNG
-
-<h1>Der letzte Monat im Rückblick</h1>
+<h3>Der letzte Monat im Rückblick</h3>
 
 IMAGE
 
-<h1>Ein Blick nach Vorne</h1>
+<h3>Ein Blick nach Vorne</h3>
 
-<h1>openscienceASAP & OKF Österreich</h1>
+<h3>openscienceASAP & OKF Österreich</h3>
 
-<h1>openscienceASAP Newsletter abonnieren</h1>
+<h3>openscienceASAP Newsletter</h3>
+
+SNIPPET BESCHREIBUNG
+
+<strong>Abonnieren</strong>
 SNIPPET NEWSLETTER
 
 SNIPPET SOURCE
+

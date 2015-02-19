@@ -8,12 +8,14 @@ Die Texte stehen alle unter der [Creative Commons Namensnennung 4.0 Internationa
 Mehr erfährt man unter [Monatlicher Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) wo auch der **[Newsletter abonniert](http://openscienceasap.org/newsletter/)** werden kann.
 
 ## Sum-Up's
+- [Januar 2015](http://openscienceasap.org/stream/2015/02/10/open-science-sum-up-januar-2/)
+- [Dezember 2014](http://openscienceasap.org/stream/2015/01/22/open-science-sum-up-dezember/)
 - [November 2014](http://openscienceasap.org/stream/2014/12/10/open-science-sum-up-november/)
 - [Oktober 2014](http://openscienceasap.org/stream/2014/11/11/open-science-sum-up-oktober/)
 - [September 2014](http://openscienceasap.org/stream/2014/10/08/open-science-sum-up-september/)
 - [August 2014](http://openscienceasap.org/stream/2014/09/10/open-science-sum-up-august/)
-- [July 2014](http://openscienceasap.org/stream/2014/08/05/open-science-sum-up-juli/)
-- [June 2014](http://openscienceasap.org/stream/2014/07/09/open-science-sum-up-juni/)
+- [Juli 2014](http://openscienceasap.org/stream/2014/08/05/open-science-sum-up-juli/)
+- [Juni 2014](http://openscienceasap.org/stream/2014/07/09/open-science-sum-up-juni/)
 - [Mai 2014](http://openscienceasap.org/stream/2014/06/17/open-science-sum-up-mai/)
 - [April 2014](http://openscienceasap.org/stream/2014/05/07/open-science-sum-up-april/)
 - [März 2014](http://openscienceasap.org/stream/2014/04/10/open-science-sum-up-maerz/)
