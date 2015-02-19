@@ -1,0 +1,50 @@
+Titel: Open Science Sum-Up Januar
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2015/02/MetOfficeClimateData-580x580.png -->
+
+<h3>Der letzte Monat im Rückblick</h3>
+
+<h1>Der letzte Monat im Rückblick</h1>
+<strong>Die geplante Fusion von Springer und Macmillan würde ein Verlagshaus mit € 1,5 Mrd. Umsatz schaffen.</strong> Die Mutterkonzerne BC Partners und Holtzbrinck sehen dies als "<a title="Springer Macmillan Merger" href="http://se.macmillan.com/Media/News/HOLTZBRINCK-PUBLISHING-GROUP-AND-BC-PARTNERS-ANNOUNCE--AGREEMENT-TO-MERGE-MAJORITY-OF-MACMILLAN-SCIENCE-AND-EDUCATION--WITH-SPRINGER-SCIENCE-BUSINESS-MEDIA/?taxId=145">strategische Transaktion um langfristiges Wachstum zu sichern</a>." Die ökonomischen Eigenheiten von Oligopolmärkten sind klar, es stellt sich viel mehr die Frage: Was ist das wirkliche Produkt, was ist der Mehrwert der noch generiert wird, welches Problem wird von solchen Konstrukten noch <a title="Exploitative Economics Academic Publishing" href="http://www.betaboston.com/footnote/2014/05/06/the-exploitative-economics-of-academic-publishing/">sinnvoll gelöst</a>? Diese Fragen werden umso wichtiger, je stärker auch die Open Access-Veröffentlichungswelt von wenigen zentralen Akteuren dominiert wird.
+
+<strong>Der Weg zu Open Science Commons.</strong> Das ambitionierte und umfangreiche Projekt "<a title="EGI" href="http://www.hpcwire.com/2015/01/15/europe-approves-path-open-science-commons/">European Grid Infrastructures</a>" erhält grünes Licht von der Europäischen Kommission. Ziel ist vereinfachter Zugang zu gemeinsamen Infrastrukturen, Technologien und wissenschaftlichem Wissen.
+
+<strong>Gleichzeitig zwackt die Europäische Kommission Forschungsgelder von Horizon 2020 ab. </strong><a title="EU Science Cuts" href="http://news.sciencemag.org/europe/2015/01/european-commission-reveals-details-proposed-cuts-science">Umgelenkt</a> werden die Gelder in einen neuen "<a title="H2020 Investment Fund" href="http://news.sciencemag.org/europe/2014/11/e-u-commission-wants-divert-horizon-2020-money-new-investment-fund">Investment Plan for Europe</a>".
+
+<strong>Die OANA-Arbeitsgruppen haben ihre Arbeit abgeschlossen und die Ergebnisse liegen vor.</strong> Mit dem Auftrag, konkrete Empfehlungen zur Umsetzung von Open Access auszuarbeiten, gingen 5 <a title="OANA Arbeitsgruppen" href="http://www.oana.at/arbeitsgruppen/">Arbeitsgruppen</a> an den Start. Die <a title="OANA Ergebnisse" href="http://www.oana.at/home/news-einzelansicht/article/2-oana-veranstaltung-am-21012015/?tx_ttnews%5BbackPid%5D=145556&amp;cHash=887837066d5a2595ccdef99d0cdf5717">Ergebnisse</a> wurden am 21. Januar in Wien vorgestellt.
+
+<strong>Die DFG macht Open Access verbindlich.</strong> Für das <a title="DFG Förderprogramm" href="http://wisspub.net/2015/01/10/dfg-verankert-open-access-verbindlich-in-forderprogramm/">neue Förderprogramm</a> "Infrastruktur für elektronische Publikationen und digitale Wissenschaftskommunikation" gilt, dass die "<em>in den Projekten erstellten Inhalte und alle aus Projekten resultierende Publikationen [...] grundsätzlich über das Internet für alle Nutzer und Nutzerinnen weltweit frei ver</em><em>fügbar</em>" sind.
+
+<strong>Transparenz öffentlicher Institutionen muss in der Schweiz per Crowdfunding hergestellt werden.</strong> Das <a title="Crowdfunding Transparenz" href="https://wemakeit.com/projects/transparenz-bei-bibliotheken">Projekt von Christian Gutknecht</a> soll Akteneinsicht in die Finanzlage der Hochschulbibliotheken herstellen.
+
+[caption id="attachment_3316" align="alignnone" width="580"]<a href="https://www.flickr.com/photos/blprnt/4177112113/in/set-72157622978635070"><img class="wp-image-3316 size-medium" src="http://openscienceasap.org/wp-content/uploads/2015/02/MetOfficeClimateData-580x580.png" alt="Met Office Climate Data, cc by 2.0 Jer Thorp" width="580" height="580" /></a> <a title="Met Office Climate Data - Month by Month w/ Latitude distrubution (January)" href="https://www.flickr.com/photos/blprnt/4177112113">Met Office Climate Data - Month by Month w/ Latitude distrubution (January)</a>, <a title="cc by 2.0" href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a> von <a title="Jer Thorp" href="https://www.flickr.com/photos/blprnt">Jer Thorp</a>[/caption]
+
+<strong>Investigative, offene Datensätze für die brisanten Fragen.</strong> Eine Reihe von Projekten sammelt Informationen zu globalen Unternehmens- und Politikvernetzungen (<a title="LittleSis" href="http://littlesis.org/">LittleSis</a>), Konzernen (<a title="opencorporates" href="https://opencorporates.com/">opencorporates</a>), oder Ölverträgen (<a title="openoil" href="http://openoil.net/">OpenOil</a>).
+
+<strong>Open Data leichter erkennen.</strong> In Österreich startet das Projekt "<a title="Open Data Inside" href="http://www.opendatainside.com/">Open Data Inside</a>". Mit einem Abzeichen wird die Nutzung von Open Data erkennbar gemacht. Ziel ist, den wirtschaftlichen Mehrwert und Nutzen für die Öffentlichkeit sichtbar zu machen und zu fördern.
+
+<strong>Mit Fragen und Antworten Open Science besser erklären.</strong> Auf der Fragen-Antworten-Platform stackexchange ist der Vorschlag einer <a href="https://area51.stackexchange.com/proposals/65426/open-science">Subseite zu "Open Science"</a> nun in die "Commitment"-Phase eingetreten. Es geht jetzt darum ausreichend Unterstützer*innen zu finden um diese zu starten.
+
+<strong>Offen und gleichzeitig übersichtlich.</strong> SPARC Europe hat eine <a href="http://sparceurope.org/howopenyourresearchis/">Visualisierungshilfe veröffentlich</a> mit der Offenheit der eigenen Forschung und Lehrinhalte dargestellt werden kann. Das Netzdiagramm deckt Aspekte wie Policies, Repositorien oder Verbreitung und Archivierung ab.
+
+<h3>Ein Blick nach Vorne</h3>
+
+<strong>Konferenz und Unkonferenz zu Science 2.0.</strong> Die zweite <a title="Science 2.0" href="http://www.science20-conference.eu/">International Science 2.0 Konferenz</a> findet am 25. und 26. März in Hamburg statt. Diskutiert wird im Kontext etablierter Themen rund um Citizen Science, Open Access, Big Data und (Alt-)Metrics. Besprochen werden auch die Ergebnisse der Konsultationen zu "Science 2.0: Science in Transition" und am Vortag gibt es ein Barcamp.
+
+<strong>Am 21. Februar schwappt eine Welle von Open Data einmal rund um die Welt.</strong> Der globale <a title="Open Data Day" href="http://opendataday.org/">Open Data Day</a> bietet eine gute Gelegenheit sich international zusammenzusetzen, den Nutzen von Open Data sichtbar zu machen und neue Ideen zu entwickeln.
+
+<strong>Citizen Science wird immer mehr zum Thema in Österreich.</strong> Die <a title="Österreich Citizen Science" href="http://www.citizen-science.at/konferenz/programm-2/">Österreichische Citizen Science Konferenz</a> am 26. Februar soll dazu die wichtigsten Akteur*innen vernetzen und eine Plattform bieten um sich kennenzulernen und Informationen auszutauschen.
+
+<strong>Der Call for Papers der Wikimania 2015 in Mexiko City ist offen.</strong> Bis 28. Februar können noch Beiträge zu den verschiedenen Tracks (u.a. WikiCulture &amp; Community, Legal &amp; Free Culture, GLAM &amp; Outreach) <a title="Wikimania Submissions" href="https://wikimania2015.wikimedia.org/wiki/Submissions">eingereicht</a> werden. Wer sich die weite Anreise nicht leisten kann, es gibt auch ein <a title="Wikimania Scholarship" href="https://wikimania2014.wikimedia.org/wiki/Open_Scholarship">Scholarship Programm</a>.
+
+<h3>openscienceASAP Newsletter</h3>
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+<strong>Abonnieren</strong>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2015/02/10/open-science-sum-up-januar-2/" title="Open Science Sum-Up Januar 2015">openscienceASAP.org</a> veröffentlicht.</strong>
+
