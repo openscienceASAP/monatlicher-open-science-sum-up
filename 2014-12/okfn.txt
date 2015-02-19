@@ -1,0 +1,43 @@
+Titel: Open Science Sum-Up Dezember
+
+<!-- magazine.image = http://openscienceasap.org/wp-content/uploads/2015/01/popularscienceprocess-580x536.png -->
+
+<h3>Der letzte Monat im Rückblick</h3>
+Wir verzichten unsererseits auf einen Jahresrückblick und verweisen stattdessen auf:
+<ul>
+	<li><a title="Open Access subjective Review" href="http://openscience.com/the-year-2014-in-open-access-a-subjective-review/">Open Access in 2014, a subjective review</a> von openscience.com</li>
+	<li>Die <a title="Figshare Top 10" href="http://figshare.com/blog/The_figshare_top_10_of_2014_according_to_altmetric/142">Top 10 Inhalte</a> von figshare.com</li>
+	<li><a title="2014 Altmetric" href="http://www.altmetric.com/blog/2014-a-year-in-review/">2014 im Rückblick</a>, aus Sicht von Altmetric.com</li>
+	<li style="text-align: left;">Die <a title="PLOS 2014" href="http://blogs.plos.org/absolutely-maybe/open-access-2014-a-year-that-data-cracked-through-secrecy-and-myth/">ausführliche und lesenswerte</a> Review von PLOS</li>
+</ul>
+<strong>Mozilla will Fähigkeitslücken bei Open Science schließen.</strong> Dafür wurde ein <a title="Mozilla Open Science Fellows" href="http://mozillascience.org/announcing-new-support-to-build-capacity-for-open-science/">Förderprogramm initiiert</a>, mit dem Ziel, Kompetenzen für kollaborative, effiziente, und reproduzierbare Wissenschaft einer breiteren Masse zu vermitteln. Dazu gehören auch Trainingsprogramme für Open Science und datenintensive Forschung.
+
+<strong>Open Science 31C3.</strong> Vernetzung und Austausch gab es im <a title="Open Science 31C3" href="http://okfn.de/2015/01/open-science-auf-dem-chaos-communication-congress-31c3/">Workshop der Open Science AG von Open Knowledge</a> auf dem Chaos Communication Congress. Dabei wurden viele Facetten angesprochen, und die Einbettung in andere gesellschaftliche Prozesse diskutiert.
+
+<strong>Die Dateiendung als vorletzte Hürde.</strong> Proprietäre Formate stehen einer einfachen Nutzung und Veröffentlichung <a title="Open Formats" href="https://medium.com/open-science/open-science-but-not-during-submission-6049dbfd14f9">im Weg</a>, und sind dennoch bevorzugte Wahl großer Publisher.
+
+<strong>Im Rahmen des deutschen Wissenschaftsjahres "Digitale Gesellschaft" fand ein Webinar zum Thema "Knowledge Sharing in Science" statt. </strong>Die Vorträge und die Diskussion mit Alexander Gerber, Muthu Madhan und Peter Kraker gibt es (nach einer Registrierung beim Alumniportal) <a title="Digitale Gesellschaft " href="https://www.alumniportal-deutschland.org/community/pg/groups/13561365/digitale-gesellschaft-digital-society/">zum Nachsehen</a>.
+
+[caption id="attachment_3288" align="alignnone" width="580"]<img class="size-medium wp-image-3288" src="http://openscienceasap.org/wp-content/uploads/2015/01/popularscienceprocess-580x536.png" alt="Popular Science Process, cc by 2.0 Jer Thorp" width="580" height="536" /> <a title="Popular Science Process" href="https://www.flickr.com/photos/blprnt/6281856864">Popular Science Process</a>, <a title="&quot;cc" href="https://creativecommons.org/licenses/by/2.0/">cc by 2.0</a> by <a title="Jer Thorp" href="https://www.flickr.com/photos/blprnt/">Jer Thorp</a>[/caption]
+
+<strong>1 Million Artikel in 23 Jahren.</strong> Pünktlich zum Jahresende wurde der <a title="arXiv 1 million" href="http://www.nature.com/news/the-arxiv-preprint-server-hits-1-million-articles-1.16643">1 millionste Artikel auf arXiv.org</a> hochgeladen.
+
+<strong>Indien macht einen großen Schritt Richtung Open Access.</strong> Die zwei größten Forschungsförderer <a title="India Open Access" href="http://news.sciencemag.org/asiapacific/2014/12/india-s-major-science-funders-join-open-access-push">verlangen die Hinterlegung</a> in öffentlichen Repositorien, inklusive Metadaten und ergänzendem Material. Während Daten noch nicht explizit verlangt werden, ist man sich dieses Trends bewusst. Interessant ist auch die Rückwirksamkeit der Policy für die Jahre 2012 und 2013.
+
+<strong>Open (Research) Data sind die nächste Stufe der Öffnung.</strong> Besonders im englischsprachigen Raum wird <a title="Open Data Mandates" href="http://figshare.com/blog/2015_The_year_of_open_data_mandates/143">Open Access auch für alle digitalen Ergebnisse</a> zunehmend verpflichtend. Das kommt Plattformen wie figshare natürlich sehr gelegen, ist aber auch für Projekte wie e-infrastructures relevant.
+
+<strong> Qualität und Bedeutung sind nicht das Gleiche.</strong> Eine <a title="Scientific Gatekeeping" href="http://www.pnas.org/content/112/2/360">Studie über Peer Review</a> ergab, dass zwar schlechte Einreichungen abgelehnt wurden, gute aber auch - welche sich im Nachhinein als wegweisende Artikel erwiesen. Nicht nur wurde eine große Zahl an Manuskripten ohne jegliche Peer Review zurückgeschickt, auch <a title="Peer Review reviewed" href="http://news.sciencemag.org/scientific-community/2014/12/does-journal-peer-review-miss-best-and-brightest">12 der 14 meist zitierten </a>erlitten dieses Schicksal.
+
+<h3>Ein Blick nach Vorne</h3>
+
+<strong>Die i-KNOW wird 2015 von 21.-23.10. in Graz stattfinden.</strong> Im vor kurzem veröffentlichten <a title="CfP iKnow" href="http://i-know.tugraz.at/call-for-papers/">Call for Papers</a> findet sich wieder ein eigener Track zu Science 2.0 und Open Science.
+
+<h3>openscienceASAP Newsletter</h3>
+
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+<strong>Der Artikel wurde ursprünglich auf <a href="http://openscienceasap.org/stream/2015/01/22/open-science-sum-up-dezember/" title="Open Science Sum-Up Dezember 2014">openscienceASAP.org</a> veröffentlicht.</strong>
