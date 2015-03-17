@@ -8,6 +8,7 @@ Die Texte stehen alle unter der [Creative Commons Namensnennung 4.0 Internationa
 Mehr erfährt man unter [Monatlicher Open Science Sum-Up](http://openscienceasap.org/social/monthly-sum-up/) wo auch der **[Newsletter abonniert](http://openscienceasap.org/newsletter/)** werden kann.
 
 ## Sum-Up's
+- [Februar 2015](http://openscienceasap.org/stream/2015/03/11/open-science-sum-up-februar-2/)
 - [Januar 2015](http://openscienceasap.org/stream/2015/02/10/open-science-sum-up-januar-2/)
 - [Dezember 2014](http://openscienceasap.org/stream/2015/01/22/open-science-sum-up-dezember/)
 - [November 2014](http://openscienceasap.org/stream/2014/12/10/open-science-sum-up-november/)

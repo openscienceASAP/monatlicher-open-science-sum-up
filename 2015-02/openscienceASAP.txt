@@ -1,0 +1,42 @@
+Titel: Open Science Sum-Up Februar
+
+<h1>Der letzte Monat im Rückblick</h1>
+
+<strong>Einsichten in die Black Box von Förderungs-Reviews.</strong> Bereits kleine Voreingenommenheiten führen zu <a title="Biased Funding" href="http://news.sciencemag.org/funding/2015/02/little-bias-peer-review-scores-can-translate-big-money-simulation-finds">gravierenden Unterschieden bei Förderquoten</a>. In der hochkompetitiven Umgebung werden so strukturelle Ungleichgewichte verstärkt, vor allem wenn es um institutionalisierte Verzerrungen geht.
+
+<strong>Nur gucken, nicht anfassen?</strong> Im Zuge der Novellierung der Urheberrechts-Richtlinie sieht ein aktuell vorliegender <a title="IRights Text Mining" href="http://irights.info/artikel/wer-schuerfen-kann-ist-klar-im-vorteil/24906">Berichtsentwurf Ausnahmen</a> für Text- und Data-Mining vor. Der Vorschlag von Julia Reda (<a title="Julian Reda" href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-546.580+02+DOC+PDF+V0//DE&amp;language=DE">pdf</a>) begründet dies unter anderem mit der Reduktion von Rechtsunsicherheiten und Transaktionskosten. Dieser wird jedoch <a title="EU-Urheberrechtsreform: Es droht leider ACTA-reloaded – dank der Konservativen [Updates]" href="https://netzpolitik.org/2015/eu-urheberrechtsreform-es-droht-leider-acta-reloaded-dank-der-konservativen/">von anderer Seite</a> schon wieder torpediert.
+
+<strong>Eine Begegnung der Drittmittel-Art.</strong> Die <a title="Ford Foundation Open Access" href="http://www.fordfoundation.org/newsroom/news-from-ford/934">Ford-Stiftung</a> ist nach Gates, Packard, Open Society und Hewlett die nächste große Stiftung, die zukünftig Open Access fordert - in Form der Creative Commons BY-Lizenz. Der Einfluss von Privat-Stiftungen auf Forschung ist noch relativ klein aber <a title="Philantropy Science" href="https://philanthropy.com/article/When-Scientific-Research/151777">stetig wachsend</a>, und stellt neue Fragen an die Verteilung von Risiko und Kontrolle zwischen privat und öffentlich.
+
+<strong>Bessere Orientierung auf dem Markt von Open Access-Zeitschriften.</strong> <a title="QOAM" href="http://science.apa.at/site/politik_und_wirtschaft/detail.html?key=SCI_20150218_SCI39491352022431382#.VOWIW9UJjL8.twitter">Quality Open Access Market</a> (QOAM) bietet die Möglichkeit, wichtige Aspekte von Open Access Journals (z.B. Qualität und Kosten) zu bewerten. QOAM basiert auf den Beiträgen von Bibliotheken, Autor*innen und Journal-Redakteur*innen, und ist als Hilfe zur Selbsthilfe gedacht. Mit ausreichend Unterstützung und genug Nutzer*innen kann es eine qualitative Ergänzung zu quantitativen Metriken sein.
+
+<strong>Open Access Publizieren mit "Paying it Forward".</strong> Der Verlag der Universität von Kalifornien probiert ein neues <a title="University California OA Model" href="https://www.insidehighered.com/news/2015/02/10/u-california-press-builds-open-access-publishing-model-around-paying-it-forward">Open Access-Finanzierungsmodell</a> aus. Das Modell ist speziell an die Anforderungen von Universitätsverlagen angepasst, und beinhaltet Bezahlung für Reviewer*innen, Subventionen für bestimmte Forschungen und Artikelbearbeitungsgebühren von 875$.
+
+<strong>Monographien und Open Access.</strong> Der Großteil der Open Access-Debatte geht oft an Monographien, und damit teilweise ganzen Disziplinen, vorbei. Ein Bericht des Higher Education Funding Council for England (<a title="HEFCE Open Access Monographs" href="http://www.hefce.ac.uk/media/hefce/content/pubs/indirreports/2015/monographsandopenaccess/2014_monographs.pdf">pdf</a>) befasst sich mit den Herausforderungen und Möglichkeiten der Umsetzung von Open Access bei Monographien.
+
+<strong>Mehr Koordination und Zusammenarbeit zwischen Open Access Repositorien.</strong> Die Confederation of OA Repositories hat einen <a title="COAR Interoperability" href="http://www.infodocket.com/2015/02/05/confederation-of-open-access-repositories-coar-publishes-interoperability-roadmap/">Fahrplan für Interoperabilität</a> veröffentlicht. Dabei werden Probleme in den zwei Dimensionen Komplexität (niedrig - hoch) und Zeitraum (kurze Frist - lange Frist) kategorisiert und Lösungen diskutiert.
+
+<strong>Im SciELO Netzwerk wurden mehr als 500.000 Artikel veröffentlicht.</strong> In seinen <a title="Scielo" href="http://blog.scielo.org/en/2015/02/06/the-scielo-network-publishes-more-than-500000-articles-in-open-access-during-its-17-years-of-operation/#.VP2nLcsVVQt">17 Jahren Tätigkeit</a> hat das mehrheitlich in Lateinamerika aktive Netzwerk vor allem Artikel aus den Bereichen Gesundheit, Humanwissenschaften, Biologie und Landwirtschaft unter Open Access veröffentlicht.
+
+[caption id="attachment_3469" align="alignnone" width="580"]<a href="http://www.europeana.eu/portal/record/90402/SK_C_165.html"><img class="wp-image-3469 size-medium" src="http://openscienceasap.org/wp-content/uploads/2015/03/winterlandscape-580x481.jpeg" alt="Winter Landscape, Public Domain von Barend Cornelis Koeckoek, Europeana" width="580" height="481" /></a> <a title="Winter Landscape" href="http://www.europeana.eu/portal/record/90402/SK_C_165.html">Winter Landscape</a>, Public Domain von <a title="Barend Cornelis Koeckoek" href="http://www.europeana.eu/portal/search.html?query=edm_agent%3a%22RM0001.PEOPLE.5564%22">Barend Cornelis Koeckoek</a>, <a title="Europeana" href="http://www.europeana.eu">Europeana</a>[/caption]
+
+<h1>Ein Blick nach Vorne</h1>
+
+<strong>FOSTER Events in Österreich.</strong> Von 12. bis 17. April findet die Generalversammlung der European Geosciences Union in Wien statt. Dabei wird es auch mehrere <a title="Foster EGU" href="https://www.fosteropenscience.eu/event/european-geosciences-union-general-assembly-2015">Präsentationen und Diskussionen</a> zum Thema Open Science geben.
+
+<strong>Jahreskonferenz des Young European Associated Researchers (YEAR) Networks.</strong> Dieses Jahr ist das Thema der zweitägigen Konferenz <a title="YEAR 2015" href="http://www.year-network.com/homepage/year-annual-conference-2015">Open Science in Horizon 2020</a>. Die Konferenz in Helsinki/Espoo richtet sich an junge WissenschaftlerInnen, die ein praxisnahes Training für das Planen und Schreiben von europäischen Projektanträgen absolvieren möchten. Zudem gibt es die Gelegenheit für eine innovative Projektidee mit Open Science Ansätzen 5000€ zur Projektantragvorbereitung und einen europäischen Projektmanagementkurs zu gewinnen.
+
+<strong>Eine neue Form der Interaktion mit dem Gesetz: Open Laws.</strong> Am 20. und 21. März findet in Salzburg ein Code Camp von <a title="Openlaws Code Camp" href="http://www.openlaws.eu/">Openlaws.eu</a> statt. Ziel des Code Camps ist eine Einführung und erleichterter Start in die Nutzung der Plattform. Diese will rechtliche Informationen leichter zugänglich, organisierbar und mit anderen teilbar machen.
+
+<strong>iKNOW Call for Papers.</strong> Für die iKnow-Konferenz von 21. bis 23. Oktober in Graz kann man auch Beiträge im <a title="iKnow Call for Papers" href="http://i-know.tugraz.at/call-for-papers/">Track Science 2.0 und Open Science einreichen</a>. Übergreifendes Thema ist Cognitive Computing and Data-Driven Business. Frist für das Abstract  ist der 27. April, für das Paper der 4. Mai.
+
+<strong>Offen für Zusammenarbeit.</strong> Das ist das Motto der internationalen <a href="http://sparc.arl.org/news/2015-open-access-week-theme-announcement">Open Access Week 2015</a>, von 19.-25. Oktober. Dabei soll erkundet werden, wie auf dem Weg zu "Open by default" zwischen Stakeholdern vermittelt werden kann.
+
+<h1>openscienceASAP Newsletter</h1>
+
+Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
+
+<strong>Abonnieren</strong>
+<div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
+<div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
+</form></div>
