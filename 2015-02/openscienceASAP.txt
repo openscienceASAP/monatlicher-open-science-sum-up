@@ -2,7 +2,7 @@ Titel: Open Science Sum-Up Februar
 
 <h1>Der letzte Monat im Rückblick</h1>
 
-<strong>Einsichten in die Black Box von Förderungs-Reviews.</strong> Bereits kleine Voreingenommenheiten führen zu <a title="Biased Funding" href="http://news.sciencemag.org/funding/2015/02/little-bias-peer-review-scores-can-translate-big-money-simulation-finds">gravierenden Unterschieden bei Förderquoten</a>. In der hochkompetitiven Umgebung werden so strukturelle Ungleichgewichte verstärkt, vor allem wenn es um institutionalisierte Verzerrungen geht.
+<strong>Einsichten in die Black Box von Förderungs-Reviews.</strong> Eine Simulation weist darauf hin dass bereits kleine Voreingenommenheiten zu <a title="Biased Funding" href="http://news.sciencemag.org/funding/2015/02/little-bias-peer-review-scores-can-translate-big-money-simulation-finds">gravierenden Unterschieden bei Förderquoten</a> führen können. Es bleibt allerdings noch eine empirische Frage, ob und welche strukturellen Biases tatsächlich existieren.
 
 <strong>Nur gucken, nicht anfassen?</strong> Im Zuge der Novellierung der Urheberrechts-Richtlinie sieht ein aktuell vorliegender <a title="IRights Text Mining" href="http://irights.info/artikel/wer-schuerfen-kann-ist-klar-im-vorteil/24906">Berichtsentwurf Ausnahmen</a> für Text- und Data-Mining vor. Der Vorschlag von Julia Reda (<a title="Julian Reda" href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-546.580+02+DOC+PDF+V0//DE&amp;language=DE">pdf</a>) begründet dies unter anderem mit der Reduktion von Rechtsunsicherheiten und Transaktionskosten. Dieser wird jedoch <a title="EU-Urheberrechtsreform: Es droht leider ACTA-reloaded – dank der Konservativen [Updates]" href="https://netzpolitik.org/2015/eu-urheberrechtsreform-es-droht-leider-acta-reloaded-dank-der-konservativen/">von anderer Seite</a> schon wieder torpediert.
 
@@ -32,6 +32,8 @@ Titel: Open Science Sum-Up Februar
 
 <strong>Offen für Zusammenarbeit.</strong> Das ist das Motto der internationalen <a href="http://sparc.arl.org/news/2015-open-access-week-theme-announcement">Open Access Week 2015</a>, von 19.-25. Oktober. Dabei soll erkundet werden, wie auf dem Weg zu "Open by default" zwischen Stakeholdern vermittelt werden kann.
 
+<em>Update vom 25.03.:</em> Revision der ersten Meldung zu Förderungsreviews. Der Inhalt der Studie wurde missverständlich wiedergegeben. Die Ergebnisse der durchgeführten Simulation weisen auf die Konsequenzen möglicher Voreingenommenheiten lediglich hin, es werden keine empirischen Ergebnisse zu Förderinstitutionen vorgestellt.
+
 <h1>openscienceASAP Newsletter</h1>
 
 Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatliche Open Science Sum-Up">monatliche Open Science Sum-Up</a> fasst aktuelle Geschehnisse zu Open Science zusammen und gibt einen Ausblick auf nächste wichtige Ereignisse: Weltweit mit Schwerpunkt auf Österreich und Deutschland sowie zu openscienceASAP.
@@ -40,3 +42,4 @@ Der <a href="http://openscienceasap.org/social/monthly-sum-up/" title="Monatlich
 <div class="mc_embed_signup"><form class="mc-embedded-subscribe-form validate" action="http://openscienceasap.us7.list-manage.com/subscribe/post?u=c71e7c601f8a8d7ea9f40da78&amp;id=6effef7ddf" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><input class="email" type="email" name="EMAIL" placeholder="Email Adresse" required="" value="" />
 <div class="clear"><input class="yellow-button" type="submit" name="subscribe" value="Anmelden" /></div>
 </form></div>
+

@@ -4,7 +4,7 @@ Titel: Open Science Sum-Up Februar
 
 <h3>Der letzte Monat im Rückblick</h3>
 
-<strong>Einsichten in die Black Box von Förderungs-Reviews.</strong> Bereits kleine Voreingenommenheiten führen zu <a title="Biased Funding" href="http://news.sciencemag.org/funding/2015/02/little-bias-peer-review-scores-can-translate-big-money-simulation-finds">gravierenden Unterschieden bei Förderquoten</a>. In der hochkompetitiven Umgebung werden so strukturelle Ungleichgewichte verstärkt, vor allem wenn es um institutionalisierte Verzerrungen geht.
+<strong>Einsichten in die Black Box von Förderungs-Reviews.</strong> Eine Simulation weist darauf hin dass bereits kleine Voreingenommenheiten zu <a title="Biased Funding" href="http://news.sciencemag.org/funding/2015/02/little-bias-peer-review-scores-can-translate-big-money-simulation-finds">gravierenden Unterschieden bei Förderquoten</a> führen können. Es bleibt allerdings noch eine empirische Frage, ob und welche strukturellen Biases tatsächlich existieren.
 
 <strong>Nur gucken, nicht anfassen?</strong> Im Zuge der Novellierung der Urheberrechts-Richtlinie sieht ein aktuell vorliegender <a title="IRights Text Mining" href="http://irights.info/artikel/wer-schuerfen-kann-ist-klar-im-vorteil/24906">Berichtsentwurf Ausnahmen</a> für Text- und Data-Mining vor. Der Vorschlag von Julia Reda (<a title="Julian Reda" href="http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//NONSGML+COMPARL+PE-546.580+02+DOC+PDF+V0//DE&amp;language=DE">pdf</a>) begründet dies unter anderem mit der Reduktion von Rechtsunsicherheiten und Transaktionskosten. Dieser wird jedoch <a title="EU-Urheberrechtsreform: Es droht leider ACTA-reloaded – dank der Konservativen [Updates]" href="https://netzpolitik.org/2015/eu-urheberrechtsreform-es-droht-leider-acta-reloaded-dank-der-konservativen/">von anderer Seite</a> schon wieder torpediert.
 
@@ -33,6 +33,8 @@ Titel: Open Science Sum-Up Februar
 <strong>iKNOW Call for Papers.</strong> Für die iKnow-Konferenz von 21. bis 23. Oktober in Graz kann man auch Beiträge im <a title="iKnow Call for Papers" href="http://i-know.tugraz.at/call-for-papers/">Track Science 2.0 und Open Science einreichen</a>. Übergreifendes Thema ist Cognitive Computing and Data-Driven Business. Frist für das Abstract  ist der 27. April, für das Paper der 4. Mai.
 
 <strong>Offen für Zusammenarbeit.</strong> Das ist das Motto der internationalen <a href="http://sparc.arl.org/news/2015-open-access-week-theme-announcement">Open Access Week 2015</a>, von 19.-25. Oktober. Dabei soll erkundet werden, wie auf dem Weg zu "Open by default" zwischen Stakeholdern vermittelt werden kann.
+
+<em>Update vom 25.03.:</em> Revision der ersten Meldung zu Förderungsreviews. Der Inhalt der Studie wurde missverständlich wiedergegeben. Die Ergebnisse der durchgeführten Simulation weisen auf die Konsequenzen möglicher Voreingenommenheiten lediglich hin, es werden keine empirischen Ergebnisse zu Förderinstitutionen vorgestellt.
 
 <h3>openscienceASAP Newsletter</h3>
 
